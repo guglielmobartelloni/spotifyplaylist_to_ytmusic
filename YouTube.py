@@ -7,6 +7,7 @@ import difflib
 from collections import OrderedDict
 from SpotifyExport import Spotify
 import settings
+import json
 
 path = os.path.dirname(os.path.realpath(__file__)) + os.sep
 
@@ -65,12 +66,19 @@ class YTMusicTransfer:
     def search_songs(self, tracks):
         videoIds = []
         songs = list(tracks)
+        f = open("track_log_list.txt", "w")
+        for song in songs:
+            f.write(json.dumps(song))
+            f.write("\n")
+        f.close()
         notFound = list()
         for i, song in enumerate(songs):
             name = re.sub(r' \(feat.*\..+\)', '', song['name'])
             query = song['artist'] + ' ' + name
             query = query.replace(" &", "")
             result = self.api.search(query)
+            print("Query: " + query + " Song:") 
+            print(song)
             if len(result) == 0:
                 notFound.append(query)
             else:
@@ -189,6 +197,11 @@ def main():
         ytmusic.add_playlist_items(playlistId, videoIds)
 
     else:
+        f = open("track_log.txt", "w")
+        for song in playlist['tracks']:
+            f.write(json.dumps(song))
+            f.write("\n")
+        f.close()
         videoIds = ytmusic.search_songs(playlist['tracks'])
         playlistId = ytmusic.create_playlist(name, info, 'PUBLIC' if args.public else 'PRIVATE', videoIds)
 
