@@ -1,0 +1,1055 @@
+{"artist": "Logic", "name": "We Get High", "album": "YS Collection Vol. 1", "duration": 258.95}
+{"artist": "Salmo Gu\u00e8 Sixpm", "name": "LOCO", "album": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK", "duration": 137.514}
+{"artist": "Drinks On Me", "name": "Falling Down", "album": "Rise & Fall", "duration": 190.454}
+{"artist": "AKLO NORIKIYO", "name": "Hyakusenman", "album": "New Drug", "duration": 169.267}
+{"artist": "AKLO H.Teflon", "name": "Ongoing Story", "album": "REGULAR", "duration": 175.133}
+{"artist": "Tsubaki Sweet William", "name": "Mati Kara Mati", "album": "Jasmine", "duration": 198.0}
+{"artist": "CoCo Ernia Mecna", "name": "Se Mi Perdo Altrove (feat. Ernia & Mecna)", "album": "Acquario", "duration": 281.802}
+{"artist": "J. Cole", "name": "St. Tropez", "album": "2014 Forest Hills Drive", "duration": 257.872}
+{"artist": "El Alfa Chael Produciendo CJ El Cherry Scom", "name": "La Mam\u00e1 de la Mam\u00e1", "album": "La Mam\u00e1 de la Mam\u00e1", "duration": 219.0}
+{"artist": "Taiki Nulight", "name": "Hold On", "album": "Hold On", "duration": 187.5}
+{"artist": "Biscits", "name": "Sundown", "album": "Sundown", "duration": 211.448}
+{"artist": "Obsk\u00fcr", "name": "Possessions", "album": "Pure Evil", "duration": 261.153}
+{"artist": "Klaus Veen", "name": "Smooth Arrangements", "album": "Ordinary Beats", "duration": 207.698}
+{"artist": "Justin Martin Dalilah Tchami", "name": "Stay - Tchami Remix", "album": "Stay (Tchami Remix)", "duration": 216.0}
+{"artist": "Sainte", "name": "Champagne Shots", "album": "Local Mvp", "duration": 144.0}
+{"artist": "Doja Cat", "name": "Woman", "album": "Planet Her", "duration": 172.626}
+{"artist": "Kendrick Lamar", "name": "The Heart Part 5", "album": "The Heart Part 5", "duration": 332.228}
+{"artist": "Kendrick Lamar", "name": "Mirror", "album": "Mr. Morale & The Big Steppers", "duration": 256.006}
+{"artist": "Kendrick Lamar", "name": "Auntie Diaries", "album": "Mr. Morale & The Big Steppers", "duration": 281.069}
+{"artist": "Kendrick Lamar Kodak Black", "name": "Silent Hill", "album": "Mr. Morale & The Big Steppers", "duration": 220.779}
+{"artist": "Kendrick Lamar", "name": "Crown", "album": "Mr. Morale & The Big Steppers", "duration": 264.299}
+{"artist": "Kendrick Lamar", "name": "Count Me Out", "album": "Mr. Morale & The Big Steppers", "duration": 283.642}
+{"artist": "Kendrick Lamar Sampha", "name": "Father Time (feat. Sampha)", "album": "Mr. Morale & The Big Steppers", "duration": 222.497}
+{"artist": "Kendrick Lamar Taylour Paige", "name": "We Cry Together", "album": "Mr. Morale & The Big Steppers", "duration": 341.307}
+{"artist": "Kendrick Lamar", "name": "N95", "album": "Mr. Morale & The Big Steppers", "duration": 195.95}
+{"artist": "Jack Harlow", "name": "Tyler Herro", "album": "Thats What They All Say", "duration": 156.578}
+{"artist": "Jack Harlow", "name": "State Fair", "album": "Come Home The Kids Miss You", "duration": 194.526}
+{"artist": "Jack Harlow", "name": "Nail Tech", "album": "Come Home The Kids Miss You", "duration": 206.385}
+{"artist": "Jack Harlow", "name": "Dua Lipa", "album": "Come Home The Kids Miss You", "duration": 135.053}
+{"artist": "Jack Harlow", "name": "I'd Do Anything To Make You Smile", "album": "Come Home The Kids Miss You", "duration": 193.765}
+{"artist": "Jain", "name": "Makeba", "album": "Zanaka (Deluxe)", "duration": 248.986}
+{"artist": "Kid Cudi Kendrick Lamar", "name": "Solo Dolo Part II", "album": "Indicud", "duration": 214.44}
+{"artist": "Kid Cudi King Chip A$AP Rocky", "name": "Brothers", "album": "Indicud", "duration": 281.506}
+{"artist": "Twenty One Pilots", "name": "Levitate", "album": "Trench", "duration": 145.946}
+{"artist": "Kendrick Lamar", "name": "Alright", "album": "To Pimp A Butterfly", "duration": 219.333}
+{"artist": "Rkomi", "name": "Mai Pi\u00f9", "album": "Io In Terra", "duration": 223.266}
+{"artist": "Marracash Massimo Pericolo", "name": "APPARTENGO - Il sangue (feat. Massimo Pericolo)", "album": "Persona", "duration": 255.449}
+{"artist": "Sfera Ebbasta Rvssian", "name": "Italiano Anthem", "album": "Italiano Anthem", "duration": 135.934}
+{"artist": "Southside Future Travis Scott", "name": "Hold That Heat (feat. Travis Scott)", "album": "Hold That Heat (feat. Travis Scott)", "duration": 221.538}
+{"artist": "Kid Cudi Chip Tha Ripper", "name": "Hyyerr", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 212.106}
+{"artist": "Cortex", "name": "Huit octobre 1971", "album": "Troupeau bleu", "duration": 266.04}
+{"artist": "Mac Miller", "name": "Nikes on My Feet", "album": "Nikes on My Feet", "duration": 164.411}
+{"artist": "Jack Harlow", "name": "First Class", "album": "First Class", "duration": 173.947}
+{"artist": "Mac Miller", "name": "Self Care", "album": "Swimming", "duration": 345.133}
+{"artist": "Aaron May", "name": "No Recognition", "album": "No Recognition", "duration": 147.441}
+{"artist": "Gunna Travis Scott", "name": "TOP FLOOR (feat. Travis Scott)", "album": "WUNNA", "duration": 169.906}
+{"artist": "Travis Scott", "name": "R.I.P. SCREW", "album": "ASTROWORLD", "duration": 185.61}
+{"artist": "Travis Scott", "name": "ASTROTHUNDER", "album": "ASTROWORLD", "duration": 142.969}
+{"artist": "Fabri Fibra Rose Villain", "name": "GoodFellas", "album": "Caos", "duration": 216.426}
+{"artist": "Barto samoorai", "name": "Anima Nera", "album": "Anima Nera", "duration": 137.872}
+{"artist": "Fabri Fibra Gu\u00e8 Salmo", "name": "Cocaine", "album": "Caos", "duration": 185.666}
+{"artist": "Kanye West JAY-Z J. Ivy", "name": "Never Let Me Down", "album": "The College Dropout", "duration": 324.44}
+{"artist": "Jaden A$AP Rocky", "name": "Breakfast (feat. A$AP Rocky)", "album": "SYRE", "duration": 184.598}
+{"artist": "Jaden", "name": "Icon", "album": "SYRE", "duration": 220.995}
+{"artist": "Paky", "name": "Mama I\u2019m a Criminal", "album": "Salvatore", "duration": 170.786}
+{"artist": "Kid Cudi", "name": "The Pale Moonlight", "album": "Man On The Moon III: The Chosen", "duration": 176.293}
+{"artist": "Kid Cudi", "name": "Sad People", "album": "Man On The Moon III: The Chosen", "duration": 176.026}
+{"artist": "Kid Cudi", "name": "Solo Dolo (Nightmare)", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 266.306}
+{"artist": "Jaden Kid Cudi", "name": "On My Own", "album": "ERYS (Deluxe)", "duration": 244.72}
+{"artist": "Pop Smoke Lil Baby DaBaby", "name": "For The Night (feat. Lil Baby & DaBaby)", "album": "Shoot For The Stars Aim For The Moon", "duration": 190.476}
+{"artist": "Kid Cudi", "name": "Enter Galactic (Love Connection Part I)", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 260.2}
+{"artist": "Joji", "name": "Ew", "album": "Nectar", "duration": 207.71}
+{"artist": "KIDS SEE GHOSTS", "name": "Reborn", "album": "KIDS SEE GHOSTS", "duration": 324.674}
+{"artist": "Kanye West", "name": "Famous", "album": "The Life Of Pablo", "duration": 196.04}
+{"artist": "Kanye West", "name": "Father Stretch My Hands Pt. 1", "album": "The Life Of Pablo", "duration": 135.92}
+{"artist": "Kanye West", "name": "Jesus Walks", "album": "The College Dropout", "duration": 193.733}
+{"artist": "Kid Cudi", "name": "Soundtrack 2 My Life", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 235.626}
+{"artist": "Kid Cudi MGMT Ratatat", "name": "Pursuit Of Happiness (Nightmare)", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 295.293}
+{"artist": "Kid Cudi Skepta Pop Smoke", "name": "Show Out (with Skepta & Pop Smoke)", "album": "Man On The Moon III: The Chosen", "duration": 174.96}
+{"artist": "Kid Cudi", "name": "Sky Might Fall", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 220.906}
+{"artist": "Kid Cudi Billy Craven", "name": "My World", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 243.026}
+{"artist": "Kid Cudi", "name": "Heart Of A Lion (Kid Cudi Theme Music)", "album": "Man On The Moon: The End Of Day (Int'l Version)", "duration": 261.36}
+{"artist": "Calvin Harris Pharrell Williams Katy Perry Big Sean Funk Wav", "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)", "album": "Funk Wav Bounces Vol.1", "duration": 223.413}
+{"artist": "Pharrell Williams", "name": "Raspy", "album": "The Billionaire Boys Club Tape", "duration": 196.133}
+{"artist": "Pharrell Williams", "name": "Gust of Wind", "album": "G I R L", "duration": 285.626}
+{"artist": "Pharrell Williams", "name": "Happy - From \"Despicable Me 2\"", "album": "G I R L", "duration": 232.72}
+{"artist": "Twista Kanye West Jamie Foxx", "name": "Slow Jamz", "album": "The College Dropout", "duration": 316.053}
+{"artist": "Kanye West Syleena Johnson", "name": "All Falls Down", "album": "The College Dropout", "duration": 223.506}
+{"artist": "Travis Scott Kacy Hill", "name": "90210 (feat. Kacy Hill)", "album": "Rodeo (Expanded Edition)", "duration": 339.066}
+{"artist": "The Pharcyde", "name": "Runnin'", "album": "Labcabincalifornia (Deluxe Edition)", "duration": 296.266}
+{"artist": "Soulja Boy", "name": "Rick & Morty", "album": "Rick & Morty", "duration": 152.137}
+{"artist": "Conway the Machine The Alchemist ScHoolboy Q", "name": "Shoot Sideways", "album": "LULU", "duration": 276.84}
+{"artist": "Geek Music", "name": "Interstellar- Main Theme", "album": "Interstellar- Main Theme", "duration": 243.209}
+{"artist": "Post Malone Swae Lee", "name": "Sunflower - Spider-Man: Into the Spider-Verse", "album": "Hollywood's Bleeding", "duration": 157.56}
+{"artist": "Mahmood BLANCO", "name": "Brividi", "album": "Brividi", "duration": 199.146}
+{"artist": "Gu\u00e8 Geolier", "name": "Blitz! (feat. Geolier)", "album": "GVESVS", "duration": 180.266}
+{"artist": "Earl Sweatshirt", "name": "Old Friend", "album": "SICK!", "duration": 79.485}
+{"artist": "Sick Luke Ghali Tony Effe", "name": "HENTAI (feat. Ghali & Tony Effe)", "album": "X2", "duration": 197.893}
+{"artist": "Travis Scott", "name": "COFFEE BEAN", "album": "ASTROWORLD", "duration": 209.115}
+{"artist": "Nas", "name": "N.Y. State of Mind", "album": "Illmatic", "duration": 293.973}
+{"artist": "Kendrick Lamar", "name": "Bitch, Don\u2019t Kill My Vibe", "album": "good kid, m.A.A.d city (Deluxe)", "duration": 310.72}
+{"artist": "Noyz Narcos Raekwon Night Skinny", "name": "WELCOME BACK (feat. Raekwon)", "album": "VIRUS", "duration": 203.544}
+{"artist": "Millie Jackson", "name": "A Child of God (It's Hard to Believe)", "album": "Millie Jackson", "duration": 220.8}
+{"artist": "Noyz Narcos Gu\u00e8 Night Skinny Capo Plaza", "name": "NO RATZ (feat. Capo Plaza & Gu\u00e8)", "album": "VIRUS", "duration": 202.838}
+{"artist": "Noyz Narcos MACE", "name": "VICTORY LAP", "album": "VIRUS", "duration": 134.328}
+{"artist": "Daft Punk", "name": "End of Line", "album": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)", "duration": 156.486}
+{"artist": "Ernia Greg Willen", "name": "LEWANDOWSKI VIII (64 Bars)", "album": "Red Bull 64 Bars, The Album", "duration": 170.742}
+{"artist": "chiello MACE", "name": "Golfo paradiso", "album": "OCEANO PARADISO", "duration": 188.08}
+{"artist": "Larry June", "name": "Let's Drive To Vegas", "album": "Out The Trunk", "duration": 171.0}
+{"artist": "Curren$y Freddie Gibbs The Alchemist", "name": "Saturday Night Special", "album": "Fetti", "duration": 208.466}
+{"artist": "Curren$y Freddie Gibbs The Alchemist", "name": "New Thangs", "album": "Fetti", "duration": 143.76}
+{"artist": "Sick Luke thasup Sfera Ebbasta", "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)", "album": "X2", "duration": 211.66}
+{"artist": "Curren$y Freddie Gibbs The Alchemist", "name": "Tapatio", "album": "Fetti", "duration": 173.866}
+{"artist": "Sick Luke Ernia Geolier", "name": "CREATUR (feat. Geolier & Ernia)", "album": "X2", "duration": 191.626}
+{"artist": "03 Greedo", "name": "Substance", "album": "The Wolf of Grape Street", "duration": 219.834}
+{"artist": "Joji", "name": "SLOW DANCING IN THE DARK", "album": "BALLADS 1", "duration": 209.273}
+{"artist": "Joji", "name": "Will He", "album": "In Tongues (Deluxe)", "duration": 202.102}
+{"artist": "Vacations", "name": "Young", "album": "Vibes", "duration": 189.16}
+{"artist": "Nujabes Shing02", "name": "Luv(sic.) pt3 (feat. Shing02)", "album": "Modal Soul", "duration": 336.866}
+{"artist": "Russ", "name": "Sheep", "album": "CHOMP 2", "duration": 106.528}
+{"artist": "Boldy James The Alchemist Benny The Butcher", "name": "Brickmile To Montana", "album": "Bo Jackson", "duration": 160.12}
+{"artist": "Logic Frank Sinatra", "name": "One (feat. Frank Sinatra)", "album": "YS Collection Vol. 1", "duration": 171.478}
+{"artist": "The Rose", "name": "Beauty and the Beast", "album": "Beauty and the Beast", "duration": 264.613}
+{"artist": "Metro Boomin 21 Savage", "name": "10 Freaky Girls (with 21 Savage)", "album": "NOT ALL HEROES WEAR CAPES (Deluxe)", "duration": 208.293}
+{"artist": "Nas Hit-Boy", "name": "Composure (feat. Hit-Boy)", "album": "King's Disease II", "duration": 203.707}
+{"artist": "Don Joe Massimo Pericolo Nerissima Serpe", "name": "PICCOLO PRINCIPE (feat. Massimo Pericolo & Nerissima Serpe)", "album": "MILANO SOPRANO", "duration": 176.493}
+{"artist": "Future The Weeknd", "name": "Low Life (feat. The Weeknd)", "album": "EVOL", "duration": 313.546}
+{"artist": "Mobb Deep", "name": "Hell on Earth (Front Lines)", "album": "Hell On Earth", "duration": 274.093}
+{"artist": "Mobb Deep", "name": "Survival of the Fittest", "album": "The Infamous", "duration": 224.533}
+{"artist": "Mobb Deep", "name": "Shook Ones, Pt. II", "album": "The Infamous", "duration": 325.506}
+{"artist": "Imagine Dragons JID Arcane League of Legends", "name": "Enemy (with JID) - from the series Arcane League of Legends", "album": "Enemy (with JID) [from the series Arcane League of Legends]", "duration": 173.381}
+{"artist": "Gu\u00e8 Ernia", "name": "Futura Ex (feat. Ernia)", "album": "GVESVS", "duration": 190.666}
+{"artist": "Giais samoorai", "name": "#Track 1", "album": "#Track 1", "duration": 130.436}
+{"artist": "Gu\u00e8 Coez", "name": "Nessuno (feat. Coez)", "album": "GVESVS", "duration": 195.549}
+{"artist": "Gu\u00e8 Rick Ross", "name": "Gangster Of Love (feat. Rick Ross)", "album": "GVESVS", "duration": 165.243}
+{"artist": "The Weeknd", "name": "Die For You", "album": "Starboy", "duration": 260.253}
+{"artist": "MACE Rkomi Venerus", "name": "NON VIVO PI\u00d9 SULLA TERRA \u0f3b (con RKOMI & VENERUS)", "album": "OBE", "duration": 311.043}
+{"artist": "Dumbo Gets Mad", "name": "Makes You Fly", "album": "Things Are Random and Time Is Speeding Up", "duration": 367.133}
+{"artist": "MACE Venerus Joan Thiele", "name": "SENZA FIATO \u0f40\u0f62\u0fa8 (con VENERUS & JOAN THIELE)", "album": "OBE", "duration": 211.506}
+{"artist": "Joan Thiele", "name": "Futuro wow", "album": "Atto I - Memoria del Futuro", "duration": 198.154}
+{"artist": "Luke Chiang", "name": "Shouldn't Be", "album": "Shouldn't Be", "duration": 210.436}
+{"artist": "Marracash", "name": "CLIFFHANGER", "album": "NOI, LORO, GLI ALTRI", "duration": 205.52}
+{"artist": "Marracash BLANCO", "name": "NEMESI (feat. BLANCO)", "album": "NOI, LORO, GLI ALTRI", "duration": 175.626}
+{"artist": "Marracash", "name": "GLI ALTRI (Giorni Stupidi)", "album": "NOI, LORO, GLI ALTRI", "duration": 201.0}
+{"artist": "Marracash", "name": "NOI", "album": "NOI, LORO, GLI ALTRI", "duration": 272.003}
+{"artist": "Marracash", "name": "DUBBI", "album": "NOI, LORO, GLI ALTRI", "duration": 234.446}
+{"artist": "Marracash", "name": "COSPLAYER", "album": "NOI, LORO, GLI ALTRI", "duration": 221.884}
+{"artist": "Freddie Gibbs Jadakiss", "name": "Black Illuminati (feat. Jadakiss)", "album": "Black Illuminati (feat. Jadakiss)", "duration": 229.333}
+{"artist": "Marracash", "name": "CRAZY LOVE", "album": "NOI, LORO, GLI ALTRI", "duration": 192.688}
+{"artist": "Marracash", "name": "PAGLIACCIO", "album": "NOI, LORO, GLI ALTRI", "duration": 177.522}
+{"artist": "Floridi", "name": "Una notte ubriaca", "album": "Una notte ubriaca", "duration": 171.589}
+{"artist": "Freddie Gibbs The Alchemist", "name": "Skinny Suge", "album": "Alfredo", "duration": 172.426}
+{"artist": "Artz Bugy Freddie Gibbs", "name": "War Time", "album": "War Time", "duration": 202.305}
+{"artist": "Freddie Gibbs Madlib Pusha T Killer Mike", "name": "Palmolive (feat. Pusha T & Killer Mike)", "album": "Bandana", "duration": 245.333}
+{"artist": "Freddie Gibbs Madlib", "name": "Crime Pays", "album": "Bandana", "duration": 182.68}
+{"artist": "Jeremy Zucker", "name": "Cry with you", "album": "Cry with you", "duration": 217.044}
+{"artist": "Evidence Fashawn The Alchemist", "name": "Far Left", "album": "The Layover", "duration": 216.44}
+{"artist": "Havoc The Alchemist", "name": "Impose My Will", "album": "The Silent Partner", "duration": 185.133}
+{"artist": "Travis Scott", "name": "ESCAPE PLAN", "album": "ESCAPE PLAN / MAFIA", "duration": 149.61}
+{"artist": "Curren$y Freddie Gibbs The Alchemist", "name": "Willie Lloyd", "album": "Fetti", "duration": 162.48}
+{"artist": "$uicideboy$", "name": "Cherry P.I.E.", "album": "Dark Side of the Clouds", "duration": 131.683}
+{"artist": "Travis Scott Future 2 Chainz", "name": "3500 (feat. Future & 2 Chainz)", "album": "Rodeo (Expanded Edition)", "duration": 461.84}
+{"artist": "The Alchemist Earl Sweatshirt Navy Blue", "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)", "album": "This Thing Of Ours", "duration": 136.5}
+{"artist": "Ella Fitzgerald Louis Armstrong", "name": "Dream A Little Dream Of Me - Single Version", "album": "Love, Ella", "duration": 185.16}
+{"artist": "Lights Follow", "name": "Slow Down", "album": "Lights Follow", "duration": 205.184}
+{"artist": "Sfera Ebbasta", "name": "UHLALA", "album": "Famoso", "duration": 189.124}
+{"artist": "thasup", "name": "m%n", "album": "m%n", "duration": 174.364}
+{"artist": "Conway the Machine The Alchemist", "name": "14 KI's", "album": "LULU", "duration": 198.786}
+{"artist": "Dr. Dre Snoop Dogg", "name": "Nuthin' But A \"G\" Thang", "album": "The Chronic", "duration": 238.466}
+{"artist": "Zack Fox", "name": "shut the fuck up talking to me", "album": "shut the fuck up talking to me", "duration": 169.681}
+{"artist": "Boldy James The Alchemist", "name": "Speed Demon Freestyle", "album": "The Price Of Tea In China", "duration": 157.866}
+{"artist": "Boldy James The Alchemist Vince Staples", "name": "Surf & Turf", "album": "The Price Of Tea In China", "duration": 223.2}
+{"artist": "Young Thug Drake Travis Scott", "name": "Bubbly (with Drake & Travis Scott)", "album": "Punk", "duration": 165.066}
+{"artist": "The Jacksons", "name": "Can You Feel It", "album": "Triumph", "duration": 359.906}
+{"artist": "o k h o Saito Lord Apex", "name": "Null & Void", "album": "Beentrill", "duration": 143.209}
+{"artist": "Ahmad Anonimis Anonymuz", "name": "City Sins", "album": "City Sins", "duration": 196.363}
+{"artist": "Nascent Duckwrth Saba", "name": "Lock It Up", "album": "Minus The Bullshit Life's Great", "duration": 226.865}
+{"artist": "Jaden", "name": "SOHO", "album": "The Sunset Tapes: A Cool Tape Story", "duration": 208.493}
+{"artist": "Don Toliver Kali Uchis", "name": "Drugs N Hella Melodies (feat. Kali Uchis)", "album": "Drugs N Hella Melodies (feat. Kali Uchis)", "duration": 198.775}
+{"artist": "Don Toliver Travis Scott", "name": "Flocky Flocky (feat. Travis Scott)", "album": "Life of a DON", "duration": 183.513}
+{"artist": "", "name": "", "album": "", "duration": 0.0}
+{"artist": "MACE Izi Jack The Smoker Jake La Furia", "name": "DIO NON \u00c9 SORDO \u0f63\u0fb7 (con IZI, JACK THE SMOKER & JAKE LA FURIA)", "album": "OBE", "duration": 211.652}
+{"artist": "MACE Venerus Gemitaiz", "name": "DAL TRAMONTO ALL\u2019ALBA \u26ad (con VENERUS & GEMITAIZ)", "album": "OBE", "duration": 221.862}
+{"artist": "MACE Carl Brave Rosa Chemical", "name": "SOGNI LUCIDI \u22b0\u22b1 (con CARL BRAVE & ROSA CHEMICAL)", "album": "OBE", "duration": 186.978}
+{"artist": "MACE Ernia Samurai Jay DARRN", "name": "SIRENA \u0f58\u0f7a (con ERNIA, SAMURAI JAY & DARRN)", "album": "OBE", "duration": 238.696}
+{"artist": "MACE Noyz Narcos Franco126 Side Baby", "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)", "album": "OBE", "duration": 208.853}
+{"artist": "XXXTENTACION", "name": "SAD!", "album": "?", "duration": 166.605}
+{"artist": "XXXTENTACION", "name": "Jocelyn Flores", "album": "17", "duration": 119.133}
+{"artist": "Tiger Speak", "name": "New Joint", "album": "Tiger Speak", "duration": 366.606}
+{"artist": "CID", "name": "Creepin'", "album": "Creepin'", "duration": 186.964}
+{"artist": "Kungs", "name": "Never Going Home", "album": "Never Going Home", "duration": 169.944}
+{"artist": "Chris Lake Walker & Royce", "name": "Dance with Me", "album": "Close Your Eyes - EP", "duration": 263.04}
+{"artist": "Salmo", "name": "CHE NE SO", "album": "FLOP", "duration": 137.533}
+{"artist": "Salmo Marracash", "name": "LA CHIAVE - feat. Marracash", "album": "FLOP", "duration": 119.492}
+{"artist": "Salmo Noyz Narcos", "name": "GHIGLIOTTINA - feat. Noyz Narcos", "album": "FLOP", "duration": 186.733}
+{"artist": "Guru Josh Project Klaas", "name": "Infinity 2008 - Klaas Remix", "album": "Infinity 2008", "duration": 389.287}
+{"artist": "Joji Trippie Redd", "name": "R.I.P. (feat. Trippie Redd)", "album": "BALLADS 1", "duration": 158.726}
+{"artist": "Freddie Gibbs Madlib", "name": "Thuggin\u2019", "album": "Pi\u00f1ata", "duration": 226.52}
+{"artist": "The Alchemist", "name": "Blank Canvas", "album": "A Doctor, Painter & An Alchemist Walk Into A Bar", "duration": 60.506}
+{"artist": "The Alchemist", "name": "Definition", "album": "The Food Villain", "duration": 88.586}
+{"artist": "The Alchemist Wiz Khalifa", "name": "Universal Studios (feat. Wiz Khalifa)", "album": "Universal Studios (feat. Wiz Khalifa)", "duration": 226.899}
+{"artist": "Boldy James The Alchemist", "name": "Drug Zone", "album": "Drug Zone", "duration": 175.613}
+{"artist": "The Alchemist Prodigy Nas", "name": "Tick Tock", "album": "1st Infantry", "duration": 238.453}
+{"artist": "The Alchemist", "name": "God Is Perfect - Instrumental", "album": "Rapper's Best Friend 6: An Instrumental Series", "duration": 185.186}
+{"artist": "WINNER", "name": "REALLY REALLY", "album": "FATE NUMBER FOR", "duration": 203.056}
+{"artist": "Joji", "name": "NO FUN", "album": "BALLADS 1", "duration": 168.417}
+{"artist": "Jeremy Zucker", "name": "always, i'll care", "album": "love is not dying", "duration": 146.16}
+{"artist": "Jeremy Zucker", "name": "all the kids are depressed", "album": "glisten", "duration": 169.973}
+{"artist": "Jeremy Zucker Chelsea Cutler", "name": "you were good to me", "album": "brent", "duration": 219.146}
+{"artist": "Armand Hammer The Alchemist Earl Sweatshirt", "name": "Falling out the Sky", "album": "Haram", "duration": 220.353}
+{"artist": "Armand Hammer The Alchemist", "name": "Indian Summer", "album": "Haram", "duration": 160.075}
+{"artist": "The Alchemist Conway", "name": "Mac 10 Wounds (feat. Conway)", "album": "Bread", "duration": 233.188}
+{"artist": "The Alchemist Westside Gunn Conway", "name": "Ray Mysterio (feat. Westside Gunn & Conway)", "album": "Bread", "duration": 223.535}
+{"artist": "Boldy James The Alchemist Band Gang Lonnie Bands", "name": "Turkey Noodle Soup (feat. BandGang Lonnie Bands)", "album": "Turkey Noodle Soup (feat. BandGang Lonnie Bands)", "duration": 132.0}
+{"artist": "The Alchemist Earl Sweatshirt", "name": "E. Coli (feat. Earl Sweatshirt)", "album": "Bread", "duration": 132.147}
+{"artist": "The Alchemist Earl Sweatshirt", "name": "Loose Change (feat. Earl Sweatshirt)", "album": "Loose Change (feat. Earl Sweatshirt)", "duration": 118.398}
+{"artist": "The Alchemist", "name": "Arrival", "album": "Israeli Salad", "duration": 94.967}
+{"artist": "Diplo Lil Xan", "name": "Color Blind", "album": "Color Blind", "duration": 177.48}
+{"artist": "Frank Ocean", "name": "Chanel", "album": "Chanel", "duration": 210.285}
+{"artist": "Various Artists", "name": "Mr. Sandman", "album": "Golden Memories", "duration": 146.16}
+{"artist": "Huey Lewis & The News", "name": "The Power Of Love", "album": "Greatest Hits: Huey Lewis And The News", "duration": 234.333}
+{"artist": "TY1 Geolier Marracash", "name": "FANTASMI ( feat. Geolier & Marracash)", "album": "DJUNGLE", "duration": 199.413}
+{"artist": "Nacai", "name": "Let's Get Ready To Rumble - Original Mix", "album": "Let's Get Ready To Rumble", "duration": 164.807}
+{"artist": "digitalluc", "name": "Ghettos Worldwide", "album": "Waitwait", "duration": 173.127}
+{"artist": "Rondodasosa Nko Central Cee", "name": "MOVIE (feat. Central Cee)", "album": "MOVIE (feat. Central Cee)", "duration": 195.744}
+{"artist": "Childish Gambino", "name": "Redbone", "album": "\"Awaken, My Love!\"", "duration": 326.933}
+{"artist": "Childish Gambino", "name": "Feels Like Summer", "album": "Summer Pack", "duration": 297.404}
+{"artist": "The Last Shadow Puppets Alex Turner Miles Kane", "name": "Bad Habits", "album": "Everything You've Come To Expect (Deluxe Edition)", "duration": 180.968}
+{"artist": "DJ Treeplo Salmo", "name": "Woaw", "album": "Woaw", "duration": 171.702}
+{"artist": "Luigi Tenco", "name": "Mi sono innamorato di te", "album": "Luigi Tenco", "duration": 171.226}
+{"artist": "Ofenbach Lagique", "name": "Wasted Love (feat. Lagique)", "album": "Wasted Love (feat. Lagique)", "duration": 139.563}
+{"artist": "Aaron Smith Krono Luvli", "name": "Dancin (feat. Luvli) - Krono Remix", "album": "Dancin (feat. Luvli) [Krono Remix]", "duration": 198.053}
+{"artist": "Common", "name": "Resurrection", "album": "Resurrection", "duration": 227.826}
+{"artist": "Bandolero", "name": "Paris Latino - Original Version 1983", "album": "Best of Bandolero (Le meilleur des ann\u00e9es 80)", "duration": 241.83}
+{"artist": "Kanye West", "name": "Through The Wire", "album": "The College Dropout", "duration": 221.226}
+{"artist": "Kanye West", "name": "Tell The Vision", "album": "Donda", "duration": 104.218}
+{"artist": "Kanye West", "name": "Heaven and Hell", "album": "Donda", "duration": 145.301}
+{"artist": "Kanye West", "name": "Remote Control", "album": "Donda", "duration": 198.613}
+{"artist": "Kanye West", "name": "Believe What I Say", "album": "Donda", "duration": 242.4}
+{"artist": "Kanye West", "name": "Praise God", "album": "Donda", "duration": 226.652}
+{"artist": "Kanye West", "name": "Off The Grid", "album": "Donda", "duration": 339.249}
+{"artist": "Magnvs", "name": "One Life (Mixed)", "album": "Found Frequencies Compilation 2 (Mixed by Lost Frequencies)", "duration": 257.56}
+{"artist": "Nina Simone", "name": "I Put A Spell On You", "album": "I Put A Spell On You", "duration": 155.026}
+{"artist": "Ernia", "name": "La Prima Volta", "album": "Gemelli (ascendente Milano)", "duration": 173.877}
+{"artist": "The Feels Grace Caroline Kyle Watson", "name": "Out Of My Head - Kyle Watson Remix", "album": "Out Of My Head", "duration": 337.967}
+{"artist": "Lost Frequencies", "name": "Sick Of The Silence", "album": "Cup Of Beats", "duration": 231.373}
+{"artist": "keshi", "name": "less of you", "album": "bandaids", "duration": 206.893}
+{"artist": "Boldy James The Alchemist", "name": "First 48 Freestyle", "album": "Bo Jackson", "duration": 195.786}
+{"artist": "Boldy James The Alchemist", "name": "Turpentine", "album": "Bo Jackson", "duration": 203.066}
+{"artist": "Curren$y The Alchemist", "name": "Full Metal", "album": "Covert Coup", "duration": 159.976}
+{"artist": "Curren$y The Alchemist", "name": "Double 07", "album": "Covert Coup", "duration": 129.604}
+{"artist": "Curren$y The Alchemist Freddie Gibbs", "name": "Scottie Pippens (feat. Freddie Gibbs)", "album": "Covert Coup", "duration": 187.238}
+{"artist": "Curren$y The Alchemist Prodigy", "name": "The Type (feat. Prodigy)", "album": "Covert Coup", "duration": 299.333}
+{"artist": "Freddie Gibbs The Alchemist Rick Ross", "name": "Scottie Beam", "album": "Alfredo", "duration": 244.053}
+{"artist": "Lil Nas X Jack Harlow", "name": "INDUSTRY BABY (feat. Jack Harlow)", "album": "INDUSTRY BABY (feat. Jack Harlow)", "duration": 212.0}
+{"artist": "Rkomi Ernia MACE", "name": "10 RAGAZZE (con ERNIA)", "album": "TAXI DRIVER", "duration": 174.727}
+{"artist": "Logic Lucy Rose", "name": "Innermission", "album": "The Incredible True Story", "duration": 240.053}
+{"artist": "Logic", "name": "I Am The Greatest", "album": "The Incredible True Story", "duration": 202.92}
+{"artist": "Logic Big Lenbo", "name": "Young Jesus", "album": "The Incredible True Story", "duration": 211.573}
+{"artist": "Logic", "name": "Soul Food II", "album": "No Pressure", "duration": 333.777}
+{"artist": "Taylor Swift", "name": "tolerate it", "album": "evermore", "duration": 245.44}
+{"artist": "Logic Cordae", "name": "Mama/Show Love (feat. YBN Cordae)", "album": "Confessions of a Dangerous Mind", "duration": 241.306}
+{"artist": "Patrick Ball", "name": "The Butterfly", "album": "Celtic Harp, Vol. IV: O'Carolan's Dream", "duration": 176.466}
+{"artist": "Logic", "name": "Like Woah", "album": "The Incredible True Story", "duration": 232.693}
+{"artist": "Logic", "name": "Soul Food", "album": "Under Pressure (Deluxe)", "duration": 292.933}
+{"artist": "Ice Cube", "name": "You Know How We Do It", "album": "Greatest Hits", "duration": 232.786}
+{"artist": "Ab-Soul Kendrick Lamar", "name": "Illuminate (feat. Kendrick Lamar)", "album": "Control System", "duration": 306.73}
+{"artist": "Kendrick Lamar", "name": "A.D.H.D", "album": "Section.80", "duration": 215.509}
+{"artist": "Huncho Jack Travis Scott Quavo", "name": "Motorcycle Patches", "album": "Huncho Jack, Jack Huncho", "duration": 191.409}
+{"artist": "Amy Winehouse", "name": "Tears Dry On Their Own", "album": "Back To Black (Deluxe Edition)", "duration": 186.44}
+{"artist": "Amy Winehouse", "name": "Rehab", "album": "Back To Black (Deluxe Edition)", "duration": 214.946}
+{"artist": "Amy Winehouse", "name": "You Know I'm No Good", "album": "Back To Black (Deluxe Edition)", "duration": 257.186}
+{"artist": "Amy Winehouse", "name": "Back To Black", "album": "Back To Black (Deluxe Edition)", "duration": 241.293}
+{"artist": "Jim Croce", "name": "Time in a Bottle", "album": "You Don't Mess Around With Jim", "duration": 146.175}
+{"artist": "James Blake ROSAL\u00cdA", "name": "Barefoot In The Park (feat. ROSAL\u00cdA)", "album": "Assume Form", "duration": 211.2}
+{"artist": "James Blake Travis Scott Metro Boomin", "name": "Mile High (feat. Travis Scott & Metro Boomin)", "album": "Assume Form", "duration": 193.6}
+{"artist": "Freddie Gibbs The Alchemist", "name": "Baby $hit", "album": "Alfredo", "duration": 216.826}
+{"artist": "Freddie Gibbs The Alchemist", "name": "God Is Perfect", "album": "Alfredo", "duration": 239.026}
+{"artist": "Travis Scott", "name": "Vision", "album": "Vision", "duration": 141.664}
+{"artist": "21 Savage Metro Boomin", "name": "My Dawg", "album": "SAVAGE MODE II", "duration": 181.715}
+{"artist": "21 Savage Metro Boomin Young Nudy", "name": "Snitches & Rats (feat. Young Nudy)", "album": "SAVAGE MODE II", "duration": 187.772}
+{"artist": "Kid Cudi", "name": "Heaven On Earth", "album": "Man On The Moon III: The Chosen", "duration": 201.093}
+{"artist": "Carlos Rafael Rivera", "name": "USSR", "album": "The Queen's Gambit (Music from the Netflix Limited Series)", "duration": 66.249}
+{"artist": "Carlos Rafael Rivera", "name": "New York", "album": "The Queen's Gambit (Music from the Netflix Limited Series)", "duration": 69.386}
+{"artist": "21 Savage Metro Boomin Young Thug", "name": "Rich Nigga Shit (feat. Young Thug)", "album": "SAVAGE MODE II", "duration": 190.331}
+{"artist": "Kid Cudi", "name": "Solo Dolo, Pt. III", "album": "Man On The Moon III: The Chosen", "duration": 242.266}
+{"artist": "Kid Cudi", "name": "Another Day", "album": "Man On The Moon III: The Chosen", "duration": 199.786}
+{"artist": "Kid Cudi", "name": "Tequila Shots", "album": "Man On The Moon III: The Chosen", "duration": 193.293}
+{"artist": "Kid Cudi", "name": "Dive", "album": "Man On The Moon III: The Chosen", "duration": 148.706}
+{"artist": "21 Savage Metro Boomin", "name": "No Opp Left Behind", "album": "SAVAGE MODE II", "duration": 194.214}
+{"artist": "Metro Boomin Swae Lee WizKid", "name": "Borrowed Love (feat. Swae Lee & WizKid)", "album": "NOT ALL HEROES WEAR CAPES (Deluxe)", "duration": 230.24}
+{"artist": "Tarika Blue", "name": "Dreamflower", "album": "Tarika Blue", "duration": 255.533}
+{"artist": "Logic Wiz Khalifa", "name": "Indica Badu", "album": "Bobby Tarantino II", "duration": 260.32}
+{"artist": "Herman's Hermits", "name": "End Of The World", "album": "Herman's Hermits Retrospective", "duration": 179.973}
+{"artist": "Shocking Blue", "name": "Venus", "album": "At Home", "duration": 187.533}
+{"artist": "Carlos Rafael Rivera", "name": "Beth's Story", "album": "The Queen's Gambit (Music from the Netflix Limited Series)", "duration": 127.615}
+{"artist": "Kendrick Lamar", "name": "Swimming Pools (Drank)", "album": "Swimming Pools (Drank)", "duration": 247.8}
+{"artist": "Huncho Jack Travis Scott Quavo", "name": "Modern Slavery", "album": "Huncho Jack, Jack Huncho", "duration": 148.559}
+{"artist": "Drake", "name": "Diplomatic Immunity", "album": "Diplomatic Immunity", "duration": 255.866}
+{"artist": "Travis Scott", "name": "sweet sweet", "album": "Birds In The Trap Sing McKnight", "duration": 222.317}
+{"artist": "Sfera Ebbasta Future", "name": "Abracadabra (feat. Future)", "album": "Famoso", "duration": 192.964}
+{"artist": "Sfera Ebbasta", "name": "$\u20ac Freestyle", "album": "Famoso", "duration": 164.468}
+{"artist": "Sfera Ebbasta Diplo", "name": "Hollywood (feat. Diplo)", "album": "Famoso", "duration": 191.869}
+{"artist": "Sfera Ebbasta Offset", "name": "Macarena (feat. Offset)", "album": "Famoso", "duration": 158.043}
+{"artist": "A$AP Rocky Joe Fox Kanye West", "name": "Jukebox Joints (feat. Joe Fox & Kanye West)", "album": "AT.LONG.LAST.A$AP", "duration": 323.96}
+{"artist": "drkmnd", "name": "Signal", "album": "Satellite Nights", "duration": 161.664}
+{"artist": "J Dilla", "name": "Mash", "album": "Donuts", "duration": 91.08}
+{"artist": "Marracash", "name": "TUTTO QUESTO NIENTE - Gli occhi", "album": "Persona", "duration": 210.839}
+{"artist": "J Dilla", "name": "Don't Cry", "album": "Donuts", "duration": 119.386}
+{"artist": "J Dilla", "name": "Time: The Donut of the Heart", "album": "Donuts", "duration": 98.72}
+{"artist": "MF DOOM Pebbles The Invisible Girl", "name": "Doomsday", "album": "Operation: Doomsday (Complete)", "duration": 298.053}
+{"artist": "J Dilla", "name": "Workinonit", "album": "Donuts", "duration": 177.12}
+{"artist": "The Pharcyde", "name": "Runnin'", "album": "Labcabincalifornia", "duration": 296.266}
+{"artist": "Claude Debussy Jean-Efflam Bavouzet", "name": "2 Arabesques, L. 66: No. 1 in E Major", "album": "Debussy, C.: Piano Music (Complete), Vol. 3 - Suite Bergamasque / Children's Corner", "duration": 244.106}
+{"artist": "Maurice Ravel Andr\u00e9 Laplante", "name": "Miroirs: III. Une barque sur l'oc\u00e9an", "album": "Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante D\u00e9funte", "duration": 428.152}
+{"artist": "Claude Debussy Alain Plan\u00e8s", "name": "R\u00eaverie, L. 68", "album": "Debussy: Estampes; Pour le piano; 6 \u00e9pigraphes antiques", "duration": 233.4}
+{"artist": "Fr\u00e9d\u00e9ric Chopin Olga Gurevich", "name": "Nocturnes, Op. 9: No. 1 in B-Flat Minor", "album": "Chopin's Best Piano Songs", "duration": 337.051}
+{"artist": "Kendrick Lamar", "name": "FEEL.", "album": "DAMN.", "duration": 214.826}
+{"artist": "Kendrick Lamar", "name": "DUCKWORTH.", "album": "DAMN.", "duration": 248.613}
+{"artist": "Lettuce", "name": "Ready to Live", "album": "Elevate", "duration": 245.686}
+{"artist": "Frank Ocean", "name": "Nights", "album": "Blonde", "duration": 307.151}
+{"artist": "Frank Ocean", "name": "Pyramids", "album": "channel ORANGE (Explicit Version)", "duration": 592.92}
+{"artist": "21 Savage Metro Boomin Future", "name": "X (feat. Future)", "album": "Savage Mode", "duration": 258.88}
+{"artist": "Lil Nas X", "name": "Panini", "album": "7 EP", "duration": 114.893}
+{"artist": "21 Savage Offset Metro Boomin Travis Scott", "name": "Ghostface Killers (feat. Travis Scott)", "album": "Without Warning", "duration": 268.933}
+{"artist": "NAV Metro Boomin Playboi Carti Offset", "name": "Minute", "album": "Perfect Timing", "duration": 265.373}
+{"artist": "Gu\u00e8 Rose Villain Luch\u00e8", "name": "Chico (feat. Rose Villain & Luch\u00e8)", "album": "Mr. Fini", "duration": 201.931}
+{"artist": "21 Savage Metro Boomin", "name": "Glock In My Lap", "album": "SAVAGE MODE II", "duration": 193.591}
+{"artist": "Metro Boomin Gunna", "name": "Space Cadet (feat. Gunna)", "album": "NOT ALL HEROES WEAR CAPES (Deluxe)", "duration": 203.266}
+{"artist": "Metro Boomin Travis Scott", "name": "Overdue (with Travis Scott)", "album": "NOT ALL HEROES WEAR CAPES (Deluxe)", "duration": 166.093}
+{"artist": "Metro Boomin Gucci Mane", "name": "10AM/Save The World (feat. Gucci Mane)", "album": "NOT ALL HEROES WEAR CAPES (Deluxe)", "duration": 226.32}
+{"artist": "Metro Boomin Travis Scott", "name": "Only 1 (Interlude) (with Travis Scott)", "album": "NOT ALL HEROES WEAR CAPES (Deluxe)", "duration": 80.466}
+{"artist": "Ludwig Goransson", "name": "FOILS", "album": "TENET (Original Motion Picture Soundtrack)", "duration": 190.529}
+{"artist": "YG Kendrick Lamar", "name": "Really Be (Smokin N Drinkin)", "album": "My Krazy Life (Deluxe)", "duration": 310.88}
+{"artist": "Pharrell Williams", "name": "Freedom", "album": "Freedom", "duration": 162.466}
+{"artist": "Rose Villain", "name": "Bundy", "album": "Bundy", "duration": 107.768}
+{"artist": "Travis Scott Future Young Thug M.I.A.", "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) - REMIX", "album": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]", "duration": 207.394}
+{"artist": "21 Savage Metro Boomin", "name": "Many Men", "album": "SAVAGE MODE II", "duration": 201.856}
+{"artist": "21 Savage Metro Boomin", "name": "Runnin", "album": "SAVAGE MODE II", "duration": 195.906}
+{"artist": "Sfera Ebbasta", "name": "Notti", "album": "Sfera Ebbasta", "duration": 170.84}
+{"artist": "Charlie Charles", "name": "Fiori Di Gretel", "album": "Perigeo", "duration": 138.191}
+{"artist": "James Brown Fred Wesley The J.B.'s", "name": "People Get Up And Drive Your Funky Soul - Remix", "album": "Motherlode", "duration": 544.64}
+{"artist": "Michael Jackson", "name": "I Can't Help It", "album": "Off the Wall", "duration": 269.333}
+{"artist": "Omido palffi", "name": "LSD", "album": "LSD", "duration": 190.769}
+{"artist": "BLOODY VINYL Slait MILES Lazza", "name": "BLOODY BARS - STUDIOMOB (feat. Lazza)", "album": "BV3", "duration": 72.133}
+{"artist": "BLOODY VINYL Slait thasup MILES Dani Faiv", "name": "X 1 MEX (feat. Dani Faiv)", "album": "BV3", "duration": 174.746}
+{"artist": "Travis Scott", "name": "I Can Tell", "album": "Rodeo (Expanded Edition)", "duration": 235.533}
+{"artist": "thasup", "name": "5olo", "album": "5olo", "duration": 127.31}
+{"artist": "Logic", "name": "Take It Back", "album": "Everybody", "duration": 400.013}
+{"artist": "Rich The Kid Kendrick Lamar", "name": "New Freezer (feat. Kendrick Lamar)", "album": "The World Is Yours", "duration": 191.937}
+{"artist": "Big Sean Travis Scott", "name": "Lithuania (feat. Travis Scott)", "album": "Detroit 2", "duration": 199.25}
+{"artist": "Sam Gellaitry", "name": "LONG DISTANCE", "album": "Escapism", "duration": 219.474}
+{"artist": "Estelle Kanye West", "name": "American Boy", "album": "Shine", "duration": 284.733}
+{"artist": "Kendrick Lamar", "name": "ELEMENT.", "album": "DAMN.", "duration": 208.733}
+{"artist": "Rage Against The Machine", "name": "Killing In The Name", "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)", "duration": 313.573}
+{"artist": "The Weeknd", "name": "Blinding Lights", "album": "After Hours", "duration": 200.04}
+{"artist": "Nick Cave & The Bad Seeds", "name": "The Mercy Seat - Live from KCRW", "album": "Push the Sky Away (Deluxe Edition)", "duration": 311.053}
+{"artist": "Frank Ocean", "name": "Pink + White", "album": "Blonde", "duration": 184.516}
+{"artist": "Travis Scott Young Thug", "name": "Sky Fall", "album": "Trap Still Boomin' 3", "duration": 318.093}
+{"artist": "Drake", "name": "Mob Ties", "album": "Scorpion", "duration": 205.146}
+{"artist": "ilyTOMMY", "name": "Forever", "album": "Forever", "duration": 108.695}
+{"artist": "Kendrick Lamar", "name": "King Kunta", "album": "To Pimp A Butterfly", "duration": 234.693}
+{"artist": "Lorn", "name": "Anvil", "album": "Vessel", "duration": 212.0}
+{"artist": "Woodkid", "name": "Run Boy Run", "album": "The Golden Age", "duration": 213.266}
+{"artist": "Frah Quintale", "name": "Due ali", "album": "Banzai (Lato blu)", "duration": 231.0}
+{"artist": "Paskman Sara Montiel", "name": "Smoking I Wait (Remix)", "album": "Smoking I Wait (Remix)", "duration": 273.745}
+{"artist": "Pickle", "name": "On The Drums", "album": "On The Drums", "duration": 206.129}
+{"artist": "Kupla", "name": "Eons", "album": "Life Forms", "duration": 207.0}
+{"artist": "J Balvin Willy William", "name": "Mi Gente", "album": "Vibras", "duration": 185.04}
+{"artist": "Logic", "name": "Perfect", "album": "No Pressure", "duration": 100.291}
+{"artist": "James Blake", "name": "You're Too Precious", "album": "You're Too Precious", "duration": 223.9}
+{"artist": "Travis Scott", "name": "Impossible", "album": "Rodeo (Expanded Edition)", "duration": 242.506}
+{"artist": "Logic", "name": "DadBod", "album": "No Pressure", "duration": 294.748}
+{"artist": "Logic", "name": "man i is", "album": "No Pressure", "duration": 269.231}
+{"artist": "Frah Quintale", "name": "Lambada", "album": "Banzai (Lato blu)", "duration": 239.0}
+{"artist": "Jay Rock Kendrick Lamar Future James Blake", "name": "King's Dead (with Kendrick Lamar, Future & James Blake)", "album": "King's Dead (with Kendrick Lamar, Future & James Blake)", "duration": 229.67}
+{"artist": "A Boogie Wit da Hoodie Kodak Black", "name": "Drowning (feat. Kodak Black)", "album": "The Bigger Artist", "duration": 209.269}
+{"artist": "Sean Wright", "name": "Mucus (Instrumental)", "album": "Know Idea", "duration": 230.886}
+{"artist": "En?gma DJ Shocca", "name": "Manifesto", "album": "Dedalo (remake)", "duration": 216.442}
+{"artist": "Nitro Fabri Fibra", "name": "Avvoltoi (feat. Fabri Fibra) - prod. CRVEL & STABBER", "album": "GarbAge", "duration": 189.756}
+{"artist": "Travis Scott", "name": "STOP TRYING TO BE GOD", "album": "ASTROWORLD", "duration": 338.438}
+{"artist": "Travis Scott", "name": "SICKO MODE", "album": "ASTROWORLD", "duration": 312.82}
+{"artist": "Travis Scott", "name": "CAN'T SAY", "album": "ASTROWORLD", "duration": 198.408}
+{"artist": "Drake WizKid Kyla", "name": "One Dance", "album": "Views", "duration": 173.986}
+{"artist": "Smokepurpp Travis Scott", "name": "Fingers Blue (feat. Travis Scott)", "album": "Deadstar", "duration": 194.771}
+{"artist": "Home", "name": "We're Finally Landing", "album": "Before the Night", "duration": 272.039}
+{"artist": "Travis Scott", "name": "way back", "album": "Birds In The Trap Sing McKnight", "duration": 272.5}
+{"artist": "Logic", "name": "BoomTrap Protocol", "album": "Bobby Tarantino II", "duration": 221.36}
+{"artist": "Young Thug J. Cole Travis Scott", "name": "The London (feat. J. Cole & Travis Scott)", "album": "The London (feat. J. Cole & Travis Scott)", "duration": 200.106}
+{"artist": "Wolfgang Amadeus Mozart Rudolf Serkin London Symphony Orchestra Claudio Abbado", "name": "Piano Concerto No. 23 in A Major, K. 488: II. Adagio", "album": "Mozart, W.A. : Piano Concertos Nos.21 & 23", "duration": 468.533}
+{"artist": "Travis Scott The 1975 Big Sean", "name": "Don't Play (feat. The 1975 & Big Sean)", "album": "Don't Play (feat. The 1975 & Big Sean)", "duration": 285.954}
+{"artist": "Lil Skies", "name": "Lust", "album": "Life of a Dark Rose", "duration": 156.0}
+{"artist": "Massimo Pericolo Crookers Nic Sarno", "name": "Amici", "album": "Scialla Semper (Emodrill Repack)", "duration": 180.95}
+{"artist": "Kanye West Travis Scott", "name": "Wash Us In The Blood", "album": "Wash Us In The Blood", "duration": 189.827}
+{"artist": "Travis Scott", "name": "NC-17", "album": "ASTROWORLD", "duration": 156.885}
+{"artist": "Pop Smoke", "name": "Dior", "album": "Meet The Woo", "duration": 216.386}
+{"artist": "Travis Scott", "name": "Apple Pie", "album": "Rodeo (Expanded Edition)", "duration": 219.36}
+{"artist": "Bronski Beat", "name": "Smalltown Boy", "album": "The Age of Consent", "duration": 302.413}
+{"artist": "Snoop Dogg Daz Dillinger", "name": "Gin N Juice (feat. Dat Nigga Daz)", "album": "Doggystyle", "duration": 211.493}
+{"artist": "Robert Miles", "name": "Children - Dream Version", "album": "Children", "duration": 453.88}
+{"artist": "Travis Scott", "name": "SKELETONS", "album": "ASTROWORLD", "duration": 145.588}
+{"artist": "Travis Scott", "name": "HOUSTONFORNICATION", "album": "ASTROWORLD", "duration": 217.828}
+{"artist": "Raige Enigma Salmo Slait", "name": "Turbo", "album": "Hip Hop Mafia: Best Italian Rappers", "duration": 265.589}
+{"artist": "Eminem Juice WRLD", "name": "Godzilla (feat. Juice WRLD)", "album": "Music To Be Murdered By", "duration": 210.8}
+{"artist": "Billie Eilish", "name": "bellyache", "album": "Bellyache", "duration": 179.172}
+{"artist": "SAINt JHN Imanbek", "name": "Roses (Imanbek Remix)", "album": "Roses (Imanbek Remix)", "duration": 176.218}
+{"artist": "Nothingtosay", "name": "Inspect", "album": "2 Am. Study Session", "duration": 178.294}
+{"artist": "brillion. Pointy Features", "name": "Still Dreaming", "album": "Bedtime Stories Pt. 2", "duration": 222.967}
+{"artist": "ROSAL\u00cdA Travis Scott", "name": "TKN (feat. Travis Scott)", "album": "TKN (feat. Travis Scott)", "duration": 129.37}
+{"artist": "Dr. Dre Eminem", "name": "Forgot About Dre", "album": "2001", "duration": 222.293}
+{"artist": "Jack Stauber", "name": "Buttercup", "album": "Pop Food", "duration": 208.026}
+{"artist": "LAKEY INSPIRED", "name": "Chill Day", "album": "Chill Day", "duration": 186.07}
+{"artist": "Pickle", "name": "Body Work", "album": "Body Work", "duration": 196.19}
+{"artist": "Ant\u00f4nio Carlos Jobim Frank Sinatra", "name": "One Note Samba (Samba de Uma Nota So)", "album": "Sinatra/Jobim: The Complete Reprise Recordings", "duration": 140.986}
+{"artist": "Iggy Pop", "name": "The Passenger", "album": "Lust For Life", "duration": 283.36}
+{"artist": "Koop", "name": "Relaxin at Club F****n", "album": "Waltz for Koop", "duration": 256.026}
+{"artist": "TOOL", "name": "Pneuma", "album": "Fear Inoculum", "duration": 713.191}
+{"artist": "Steve Vai", "name": "For the Love of God", "album": "Passion And Warfare", "duration": 363.333}
+{"artist": "THE SCOTTS Travis Scott Kid Cudi", "name": "THE SCOTTS", "album": "THE SCOTTS", "duration": 165.977}
+{"artist": "BODA", "name": "California", "album": "California", "duration": 152.372}
+{"artist": "Neteta Roger Voka", "name": "Kissing Your Shadow - Roger Voka Remix", "album": "Kissing Your Shadow (Remixes)", "duration": 260.625}
+{"artist": "Erik Satie Alena Cherny", "name": "Gnossienne No. 1", "album": "Gnossienne No. 1", "duration": 296.48}
+{"artist": "Babe Ruth", "name": "The Mexican", "album": "Grand Slam - The Best Of Babe Ruth", "duration": 205.893}
+{"artist": "Shaggy Rik Rok", "name": "It Wasn't Me", "album": "Hot Shot", "duration": 227.6}
+{"artist": "Roberta Di Mario Empty Room String Ensemble", "name": "Di Mario: Valzer in A Minor", "album": "Valzer in A Minor", "duration": 226.344}
+{"artist": "Soho", "name": "Hot Music", "album": "Somewhere in New York", "duration": 306.133}
+{"artist": "Macklemore", "name": "B-Boy", "album": "Westside Bugg Presents\u2026 The Best Of The West", "duration": 166.729}
+{"artist": "Orgone", "name": "Open Season", "album": "Bacano", "duration": 308.546}
+{"artist": "Stone Sour", "name": "Through Glass", "album": "Come What(ever) May [10th Anniversary Edition]", "duration": 282.946}
+{"artist": "Mike Theodore Orchestra", "name": "The Bull", "album": "Cosmic Wind/High On Mad Mountain", "duration": 400.093}
+{"artist": "The Herbaliser", "name": "Goldrush", "album": "Very Mercenary", "duration": 369.586}
+{"artist": "R\u016eDE", "name": "Eternal Youth", "album": "Eternal Youth", "duration": 205.766}
+{"artist": "Nas will.i.am", "name": "Hip Hop Is Dead", "album": "Hip Hop Is Dead", "duration": 225.346}
+{"artist": "Bell Biv DeVoe", "name": "Poison", "album": "Grand Theft Auto: San Andreas Official Soundtrack [Soundtrack (Explicit Version)]", "duration": 261.853}
+{"artist": "Funky Bijou", "name": "Double trouble - Lut\u00e8ce", "album": "The Soundtrack", "duration": 235.331}
+{"artist": "Beastie Boys", "name": "Intergalactic - Remastered 2009", "album": "Hello Nasty (Deluxe Version/Remastered 2009)", "duration": 231.493}
+{"artist": "Funky Bijou Marrrtin Deheb Freshhh", "name": "Funky Bijou Anthem", "album": "Funky Bijou", "duration": 207.106}
+{"artist": "Slick Rick", "name": "Children's Story", "album": "Grand Theft Auto 8 CD Set (Explicit Version)", "duration": 238.32}
+{"artist": "KOHH", "name": "Living Legend", "album": "DIRT", "duration": 138.776}
+{"artist": "Beastie Boys", "name": "Ch-Check It Out", "album": "Ch-Check It Out", "duration": 195.093}
+{"artist": "KOHH", "name": "I Think I'm Falling", "album": "I Think I'm Falling", "duration": 233.428}
+{"artist": "Porcupine Tree", "name": "What Happens Now? - Live", "album": "Anesthetize", "duration": 489.026}
+{"artist": "TOOL", "name": "Forty Six & 2", "album": "\u00c6nima", "duration": 363.066}
+{"artist": "TOOL", "name": "Rosetta Stoned", "album": "10,000 Days", "duration": 671.36}
+{"artist": "TOOL", "name": "Lateralus", "album": "Lateralus", "duration": 562.706}
+{"artist": "Twenty One Pilots", "name": "Heathens", "album": "Heathens", "duration": 195.92}
+{"artist": "Radiohead", "name": "2 + 2 = 5", "album": "Hail To the Thief", "duration": 199.36}
+{"artist": "Noisestorm Foreign Beggars", "name": "Breakout", "album": "Breakout", "duration": 181.333}
+{"artist": "50 Cent", "name": "Many Men (Wish Death)", "album": "Get Rich Or Die Tryin'", "duration": 256.24}
+{"artist": "Dr. Dre Snoop Dogg", "name": "The Next Episode", "album": "2001", "duration": 161.506}
+{"artist": "Naeleck Ferd VIKING N3 Tha Boogie Bandit", "name": "Take A Sip - Tha Boogie Bandit Remix", "album": "Take A Sip Remixes", "duration": 186.617}
+{"artist": "Ice Cube", "name": "It Was A Good Day", "album": "Greatest Hits", "duration": 260.079}
+{"artist": "Fall Out Boy", "name": "Sugar, We're Goin Down", "album": "From Under The Cork Tree", "duration": 229.093}
+{"artist": "Klaus Badelt", "name": "He's a Pirate", "album": "Pirates Of The Caribbean Original Soundtrack", "duration": 90.426}
+{"artist": "Klaus Badelt", "name": "Fog Bound", "album": "Pirates Of The Caribbean Original Soundtrack", "duration": 136.8}
+{"artist": "Lizzo", "name": "Juice", "album": "Juice", "duration": 195.333}
+{"artist": "Cordae Anderson .Paak", "name": "RNP (feat. Anderson .Paak)", "album": "RNP (feat. Anderson .Paak)", "duration": 175.853}
+{"artist": "Migos Lil Uzi Vert", "name": "Bad and Boujee (feat. Lil Uzi Vert)", "album": "Culture", "duration": 343.15}
+{"artist": "Bill Withers", "name": "Ain't No Sunshine", "album": "Just As I Am", "duration": 125.093}
+{"artist": "Shuman Robert Marta Argerich", "name": "R. Schuman: II Sonata U G-Molu, Op. 22 - Allegro", "album": "Veliki Pijanisti Na Dubrova\u010dkom Festival", "duration": 329.853}
+{"artist": "Snoop Dogg", "name": "Deep Cover", "album": "Hip Hop Originals", "duration": 250.493}
+{"artist": "Led Zeppelin", "name": "Babe I'm Gonna Leave You - 1990 Remaster", "album": "Led Zeppelin", "duration": 401.066}
+{"artist": "Shakira Wyclef Jean", "name": "Hips Don't Lie (feat. Wyclef Jean)", "album": "Oral Fixation, Vol. 2 (Expanded Edition)", "duration": 218.093}
+{"artist": "Britney Spears", "name": "Toxic", "album": "In The Zone", "duration": 198.8}
+{"artist": "Santana The Product G&B", "name": "Maria Maria (feat. The Product G&B)", "album": "Supernatural (Remastered)", "duration": 261.973}
+{"artist": "Donna Summer", "name": "Love To Love You Baby", "album": "Love To Love You Baby", "duration": 1008.533}
+{"artist": "Roddy Ricch", "name": "The Box", "album": "Please Excuse Me for Being Antisocial", "duration": 196.652}
+{"artist": "Logic", "name": "Keanu Reeves", "album": "Keanu Reeves", "duration": 225.986}
+{"artist": "Protoje Chronixx", "name": "Who Knows", "album": "Ancient Future", "duration": 208.466}
+{"artist": "Lucas King", "name": "Mello's Theme", "album": "The Anime Album II", "duration": 202.866}
+{"artist": "The Evolved", "name": "What's up People? (From 'Death Note')", "album": "New Dark Genesis (25 Twisted Anime Tracks)", "duration": 253.283}
+{"artist": "Anime Kei", "name": "Near's Theme (From \"Death Note\") - Instrumental", "album": "L's Themes (The Greatest Instrumental Themes from Death Note)", "duration": 183.112}
+{"artist": "Rhaeide", "name": "Death Note - L's Theme", "album": "Death Note - L's Theme", "duration": 121.08}
+{"artist": "Kool & The Gang", "name": "Get Down On It - Single Version", "album": "The Very Best Of Kool & The Gang (Reissue)", "duration": 212.906}
+{"artist": "Guns N' Roses", "name": "Don't Cry (Original)", "album": "Use Your Illusion I", "duration": 283.733}
+{"artist": "Jinsang", "name": "Bright.", "album": "Solitude.", "duration": 123.413}
+{"artist": "Lenny Kravitz", "name": "Fly Away", "album": "5", "duration": 221.332}
+{"artist": "Blur", "name": "Charmless Man", "album": "Blur: The Best Of", "duration": 213.6}
+{"artist": "Seals and Crofts", "name": "Summer Breeze", "album": "Seals & Crofts' Greatest Hits", "duration": 205.48}
+{"artist": "Michael Jackson", "name": "You Rock My World - Radio Edit", "album": "Number Ones", "duration": 265.933}
+{"artist": "Aya Nakamura Capo Plaza", "name": "Pookie (feat. Capo Plaza) - Remix", "album": "Pookie (feat. Capo Plaza) [Remix]", "duration": 188.4}
+{"artist": "AllttA 20syl Mr. J. Medeiros", "name": "Disarm (fg. VI)", "album": "Facing Giants", "duration": 251.32}
+{"artist": "AllttA 20syl Mr. J. Medeiros", "name": "Snow Fire (fg. I)", "album": "Facing Giants", "duration": 263.546}
+{"artist": "Drake", "name": "Behind Barz - Bonus", "album": "Behind Barz (Bonus)", "duration": 163.12}
+{"artist": "Travis Scott", "name": "Antidote", "album": "Rodeo (Expanded Edition)", "duration": 262.693}
+{"artist": "Michael Jackson", "name": "Human Nature", "album": "Thriller 25 Super Deluxe Edition", "duration": 245.56}
+{"artist": "Epic Mountain", "name": "Loneliness", "album": "Kurzgesagt, Vol. 5 (Original Motion Picture Soundtrack)", "duration": 694.067}
+{"artist": "Epic Mountain", "name": "Optimistic Nihilism", "album": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)", "duration": 372.0}
+{"artist": "Linkin Park", "name": "In the End", "album": "Hybrid Theory (Bonus Edition)", "duration": 216.88}
+{"artist": "Dom Dolla", "name": "San Frandisco", "album": "San Frandisco", "duration": 185.0}
+{"artist": "Billie Eilish Khalid", "name": "lovely (with Khalid)", "album": "lovely (with Khalid)", "duration": 200.185}
+{"artist": "Leon Haywood", "name": "I Want'a Do Something Freaky To You", "album": "Funked! : Volume 2 1973-1977", "duration": 303.133}
+{"artist": "Salmo Dani Faiv Nitro Lazza", "name": "CHARLES MANSON (BUON NATALE2) (feat. Lazza)", "album": "Playlist Live", "duration": 258.186}
+{"artist": "Emilie Mover", "name": "Can't Take My Eyes Off of You", "album": "Can't Take My Eyes Off of You", "duration": 203.024}
+{"artist": "Sharon Jones & The Dap-Kings", "name": "This Land Is Your Land", "album": "Naturally", "duration": 271.44}
+{"artist": "Amy Stroup", "name": "In the Shadows", "album": "In the Shadows", "duration": 263.823}
+{"artist": "Seal", "name": "It's a Man's Man's Man's World", "album": "Hits", "duration": 231.76}
+{"artist": "DJ PHEMIX", "name": "All Around the World - Remix", "album": "Best Songs Remix", "duration": 191.921}
+{"artist": "Sfera Ebbasta", "name": "BRNBQ", "album": "Sfera Ebbasta", "duration": 224.12}
+{"artist": "Kanye West", "name": "Follow God", "album": "JESUS IS KING", "duration": 104.591}
+{"artist": "Red Hot Chili Peppers", "name": "Dark Necessities", "album": "The Getaway", "duration": 302.0}
+{"artist": "Juice WRLD", "name": "Lucid Dreams", "album": "Goodbye & Good Riddance", "duration": 239.835}
+{"artist": "Daft Punk", "name": "The Son of Flynn", "album": "TRON: Legacy", "duration": 95.226}
+{"artist": "Kodak Black Offset Travis Scott", "name": "ZEZE (feat. Travis Scott & Offset)", "album": "Dying to Live", "duration": 228.759}
+{"artist": "Madame", "name": "Sciccherie", "album": "Sciccherie", "duration": 192.97}
+{"artist": "David Guetta Kid Cudi", "name": "Memories (feat. Kid Cudi)", "album": "One More Love", "duration": 210.853}
+{"artist": "Marracash Cosmo", "name": "GRETA THUNBERG - Lo stomaco (feat. Cosmo)", "album": "Persona", "duration": 166.174}
+{"artist": "Marracash Luch\u00e8", "name": "SPORT - I muscoli (feat. Luch\u00e8)", "album": "Persona", "duration": 202.339}
+{"artist": "Erik Satie Philippe Entremont", "name": "Gymnop\u00e9die No. 1", "album": "Erik Satie & Friends", "duration": 205.866}
+{"artist": "Kanye West", "name": "Selah", "album": "JESUS IS KING", "duration": 164.619}
+{"artist": "Fr\u00e9d\u00e9ric Chopin Howard Shelley", "name": "Fantasy-Impromptu in C-Sharp Minor, Op. 66", "album": "Chopin: Impromptus", "duration": 332.2}
+{"artist": "Greentea Peng", "name": "Mr. Sun (miss da sun)", "album": "Mr. Sun (miss da sun)", "duration": 223.533}
+{"artist": "Ludwig van Beethoven Terry Davies Members Of The London Symphony Orchestra", "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )", "album": "The King's Speech OST", "duration": 302.986}
+{"artist": "Vegas Jones Nayt", "name": "FRECCIAROSSA (feat. Nayt)", "album": "BELLARIA: GRAN TURISMO", "duration": 166.782}
+{"artist": "Twenty One Pilots", "name": "Neon Gravestones", "album": "Trench", "duration": 240.266}
+{"artist": "Twenty One Pilots", "name": "Nico and the Niners", "album": "Trench", "duration": 225.04}
+{"artist": "Marracash", "name": "CRUDELIA - I nervi", "album": "Persona", "duration": 230.922}
+{"artist": "Marracash", "name": "G.O.A.T. - Il cuore", "album": "Persona", "duration": 210.183}
+{"artist": "Young Thug Travis Scott Gunna", "name": "Hot (Remix) [feat. Gunna and Travis Scott]", "album": "Hot (Remix) [feat. Gunna and Travis Scott]", "duration": 279.906}
+{"artist": "Marracash Coez", "name": "QUELLI CHE NON PENSANO - Il cervello (feat. Coez)", "album": "Persona", "duration": 190.186}
+{"artist": "Marracash Gu\u00e8", "name": "QUALCOSA IN CUI CREDERE - Lo scheletro (feat. Gu\u00e8 Pequeno)", "album": "Persona", "duration": 212.316}
+{"artist": "Justin Timberlake", "name": "What Goes Around.../...Comes Around (Interlude)", "album": "FutureSex/LoveSounds", "duration": 448.573}
+{"artist": "Gorillaz", "name": "Tranz", "album": "The Now Now", "duration": 162.626}
+{"artist": "Friend Within", "name": "The Renegade", "album": "The Renegade EP", "duration": 150.703}
+{"artist": "Bobby Woods Les Deux Love Orchestra", "name": "The Moth (Remastered)", "album": "The Moth (Remastered)", "duration": 237.798}
+{"artist": "Travis Scott", "name": "HIGHEST IN THE ROOM", "album": "HIGHEST IN THE ROOM", "duration": 175.72}
+{"artist": "Night Skinny Ernia Quentin40", "name": "Numero10 (feat. Ernia & Quentin40)", "album": "Mattoni", "duration": 145.182}
+{"artist": "Mac Quayle", "name": "2.0_6-madame3xecutioner.oga", "album": "Mr. Robot, Vol. 3 (Original Television Series Soundtrack)", "duration": 248.43}
+{"artist": "Jo\u00e3o Gilberto", "name": "Sorriu Para Mim", "album": "Joao", "duration": 185.506}
+{"artist": "Stan Getz Jo\u00e3o Gilberto Astrud Gilberto Ant\u00f4nio Carlos Jobim", "name": "The Girl From Ipanema - Single Version", "album": "Getz/Gilberto (Expanded Edition)", "duration": 167.533}
+{"artist": "Stan Getz Jo\u00e3o Gilberto Astrud Gilberto Ant\u00f4nio Carlos Jobim", "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version", "album": "Getz/Gilberto (Expanded Edition)", "duration": 139.986}
+{"artist": "Stan Getz Jo\u00e3o Gilberto Ant\u00f4nio Carlos Jobim", "name": "Para Machuchar Meu Coracao", "album": "Jazz 'Round Midnight: Bossa Nova", "duration": 306.906}
+{"artist": "FISHER", "name": "Ya Kidding", "album": "Ya Kidding", "duration": 238.08}
+{"artist": "London Symphony Orchestra", "name": "Bol\u00e9ro (Ravel)", "album": "Ravel: Bolero / Daphnis Et Chlo\u00eb", "duration": 934.067}
+{"artist": "blink-182", "name": "She's Out Of Her Mind", "album": "California", "duration": 162.72}
+{"artist": "Puri Jhorrmountain Adje", "name": "Co\u00f1o", "album": "Co\u00f1o", "duration": 137.595}
+{"artist": "Bloc Party", "name": "Banquet", "album": "Silent Alarm", "duration": 196.613}
+{"artist": "Sfera Ebbasta", "name": "Happy Birthday", "album": "Rockstar (Popstar Edition)", "duration": 170.706}
+{"artist": "Marvin Gaye Tammi Terrell", "name": "Ain't No Mountain High Enough", "album": "United", "duration": 151.666}
+{"artist": "Marvin Gaye", "name": "I Heard It Through The Grapevine", "album": "Every Great Motown Hit Of Marvin Gaye", "duration": 196.706}
+{"artist": "Alabama Shakes", "name": "Sound & Color", "album": "Sound & Color", "duration": 182.466}
+{"artist": "I Monster", "name": "Daydream In Blue", "album": "Neveroddoreven", "duration": 223.666}
+{"artist": "Maxence Cyrin", "name": "Where Is My Mind", "album": "Nov\u00f6 Piano", "duration": 165.16}
+{"artist": "SALES", "name": "Chinese New Year", "album": "SALES - EP", "duration": 160.0}
+{"artist": "Twenty One Pilots", "name": "Morph", "album": "Trench", "duration": 258.853}
+{"artist": "Ice Cube", "name": "It Was A Good Day", "album": "The Predator", "duration": 260.0}
+{"artist": "Lucio Dalla", "name": "Attenti al lupo", "album": "Cambio", "duration": 260.2}
+{"artist": "Public Enemy", "name": "Rebel Without A Pause", "album": "It Takes A Nation Of Millions To Hold Us Back", "duration": 302.666}
+{"artist": "Rush", "name": "Tom Sawyer", "album": "Moving Pictures (2011 Remaster)", "duration": 276.88}
+{"artist": "JAY-Z Linkin Park", "name": "Jigga What / Faint", "album": "Collision Course (Deluxe Version)", "duration": 211.173}
+{"artist": "Rihanna", "name": "James Joint", "album": "ANTI (Deluxe)", "duration": 72.08}
+{"artist": "Bruno Mars Cardi B", "name": "Finesse - Remix; feat. Cardi B", "album": "Finesse (Remix) [feat. Cardi B]", "duration": 217.288}
+{"artist": "Ciara", "name": "Level Up", "album": "Level Up", "duration": 204.15}
+{"artist": "Anuel AA KAROL G", "name": "Secreto", "album": "Secreto", "duration": 258.8}
+{"artist": "50 Cent", "name": "In Da Club", "album": "Get Rich Or Die Tryin'", "duration": 193.466}
+{"artist": "Future Travis Scott", "name": "First Off (feat. Travis Scott)", "album": "Future Hndrxx Presents: The WIZRD", "duration": 228.366}
+{"artist": "Lil Pump", "name": "Gucci Gang", "album": "Lil Pump", "duration": 124.055}
+{"artist": "Eminem", "name": "Beautiful", "album": "Relapse: Refill", "duration": 392.826}
+{"artist": "The Notorious B.I.G.", "name": "Hypnotize - 2007 Remaster", "album": "Greatest Hits", "duration": 230.0}
+{"artist": "Hippie Sabotage", "name": "Devil Eyes", "album": "Providence", "duration": 131.271}
+{"artist": "Burak Yeter Danelle Sandoval", "name": "Tuesday (feat. Danelle Sandoval)", "album": "Tuesday (feat. Danelle Sandoval)", "duration": 241.874}
+{"artist": "William Featherby", "name": "Digital Breakthrough", "album": "Epic Motion", "duration": 239.951}
+{"artist": "REYKO", "name": "Spinning Over You", "album": "Spinning Over You", "duration": 194.745}
+{"artist": "Twenty One Pilots", "name": "Jumpsuit", "album": "Trench", "duration": 238.56}
+{"artist": "Calcutta ", "name": "Frosinone", "album": "Mainstream (Deluxe Edition)", "duration": 189.44}
+{"artist": "Vance Joy", "name": "Riptide", "album": "Dream Your Life Away", "duration": 204.28}
+{"artist": "Calcutta  Takagi Ketra", "name": "Oroscopo (feat. Takagi & Ketra) - Ghost track", "album": "Mainstream +", "duration": 198.292}
+{"artist": "DJ Snake J Balvin Tyga", "name": "Loco Contigo (feat. J. Balvin & Tyga)", "album": "Carte Blanche", "duration": 185.194}
+{"artist": "Calcutta ", "name": "Cosa mi manchi a fare", "album": "Mainstream (Deluxe Edition)", "duration": 169.306}
+{"artist": "Achille Lauro Boss Doms Gemitaiz Quentin40 Puritano", "name": "Thoiry Remix (Samba Trap Vol. 3 - Mitraglia Rec) (feat. Gemitaiz, Quentin40 & Puritano)", "album": "Thoiry Remix (Samba Trap Vol. 3 - Mitraglia Rec) (feat. Gemitaiz, Quentin40 & Puritano)", "duration": 174.919}
+{"artist": "Merk & Kremont", "name": "Sushi", "album": "Sushi", "duration": 168.87}
+{"artist": "David Guetta Brooks Loote", "name": "Better When You're Gone - Extended Mix", "album": "Better When You're Gone (Extended Mix)", "duration": 339.394}
+{"artist": "Offset Cardi B", "name": "Clout (feat. Cardi B)", "album": "FATHER OF 4", "duration": 205.803}
+{"artist": "Green Day", "name": "Father of All...", "album": "Father of All...", "duration": 151.362}
+{"artist": "Pedro Cap\u00f3 Farruko", "name": "Calma - Remix", "album": "Calma (Remix)", "duration": 238.2}
+{"artist": "Salmo", "name": "Russell Crowe", "album": "Midnite (Deluxe Version)", "duration": 177.64}
+{"artist": "Oh No", "name": "Welcome To Los Santos", "album": "The Music of Grand Theft Auto V, Vol. 1: Original Music", "duration": 154.28}
+{"artist": "Michael Hunter", "name": "Soviet Connection \u2014 The Theme from Grand Theft Auto IV", "album": "Grand Theft Auto IV \u2014 The Theme Song Collection", "duration": 171.486}
+{"artist": "blink-182", "name": "After Midnight", "album": "Neighborhoods (Deluxe Explicit Version)", "duration": 206.866}
+{"artist": "Erik Satie Alexandre Tharaud", "name": "Gnossienne: No. 1", "album": "Satie: Avant-derni\u00e8res pens\u00e9es (Bonus Track Version)", "duration": 214.133}
+{"artist": "Da Corry", "name": "The Parade - Original Radio Version", "album": "The Parade", "duration": 194.001}
+{"artist": "Gandi", "name": "Grace - Original Mix", "album": "Luxury Sound Compilation Vol. VIII", "duration": 182.93}
+{"artist": "TOTO", "name": "Bottom Of Your Soul", "album": "Falling In Between", "duration": 418.026}
+{"artist": "TOTO", "name": "I Will Remember", "album": "Tambu", "duration": 366.373}
+{"artist": "Rvfv", "name": "Mir\u00e1ndote", "album": "Mir\u00e1ndote", "duration": 135.914}
+{"artist": "James Brown", "name": "Cold Sweat", "album": "Get On The Good Foot", "duration": 176.973}
+{"artist": "FISHER", "name": "Stop It", "album": "Oi Oi", "duration": 163.79}
+{"artist": "Joyhauser", "name": "C166W", "album": "C166W", "duration": 487.5}
+{"artist": "Joyhauser", "name": "Galaxy Phase - Original Mix", "album": "Pleasurekraft presents: Monolith Series Volume 2", "duration": 424.35}
+{"artist": "Travis Scott Justin Bieber Young Thug", "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)", "album": "Rodeo (Expanded Edition)", "duration": 349.933}
+{"artist": "Travis Scott", "name": "goosebumps", "album": "Birds In The Trap Sing McKnight", "duration": 243.836}
+{"artist": "Livin' Joy", "name": "Dreamer", "album": "Don\u2019t Stop Movin\u2019", "duration": 347.506}
+{"artist": "Rvfv", "name": "Prend\u00edo", "album": "Prend\u00edo", "duration": 189.718}
+{"artist": "Joe Satriani", "name": "If", "album": "Joe Satriani", "duration": 288.84}
+{"artist": "Joe Satriani", "name": "Cool #9", "album": "Joe Satriani", "duration": 359.16}
+{"artist": "Jacob Miller", "name": "Baby I Love You So", "album": "Who Say Jah No Dread - The Classic Augustus Pablo Sessions", "duration": 150.84}
+{"artist": "Chemical Surf Dubdisko", "name": "I Wanna Do", "album": "I Wanna Do", "duration": 184.354}
+{"artist": "Lil Nas X", "name": "Old Town Road", "album": "7 EP", "duration": 113.0}
+{"artist": "Pixies", "name": "Where Is My Mind?", "album": "Surfer Rosa (Remastered)", "duration": 236.973}
+{"artist": "Benny Goodman", "name": "Sing, Sing, Sing", "album": "The Essential Benny Goodman", "duration": 520.293}
+{"artist": "INNA J Balvin", "name": "Cola Song (feat. J Balvin)", "album": "Cola Song (feat. J Balvin)", "duration": 198.245}
+{"artist": "Hiatus Kaiyote", "name": "Fingerprints", "album": "Choose Your Weapon", "duration": 256.92}
+{"artist": "Ashafar", "name": "Panamera", "album": "Panamera", "duration": 138.886}
+{"artist": "Radiohead", "name": "Weird Fishes/ Arpeggi", "album": "In Rainbows", "duration": 318.186}
+{"artist": "KOHH Sam Tiba", "name": "Paris (Sam Tiba Remix)", "album": "Homieland, Vol.2", "duration": 198.392}
+{"artist": "M\u00a5SS KETA", "name": "CLIQUE", "album": "PAPRIKA", "duration": 170.04}
+{"artist": "Caro Emerald", "name": "Back It Up", "album": "Deleted Scenes from the Cutting Room Floor", "duration": 231.46}
+{"artist": "KOHH Dutch Montana Loota", "name": "Dirt Boys", "album": "DIRT", "duration": 317.208}
+{"artist": "C.O.S.A. KID FRESINO", "name": "LOVE (Prod by jjj)", "album": "Somewhere", "duration": 219.652}
+{"artist": "AKLO ZORN", "name": "COUNT ON ME", "album": "COUNT ON ME", "duration": 211.457}
+{"artist": "MEDUZA Goodboys", "name": "Piece Of Your Heart", "album": "Piece Of Your Heart", "duration": 152.913}
+{"artist": "A Boogie Wit da Hoodie", "name": "Look Back at It", "album": "Hoodie SZN", "duration": 179.449}
+{"artist": "MACHETE Dani Faiv thasup Fabri Fibra", "name": "YOSHI (feat. Fabri Fibra) - prod. Strage", "album": "MACHETE MIXTAPE 4", "duration": 211.994}
+{"artist": "Y2K bbno$", "name": "Lalala", "album": "Lalala", "duration": 160.615}
+{"artist": "John Coltrane", "name": "Giant Steps", "album": "Giant Steps (Deluxe Edition)", "duration": 283.439}
+{"artist": "The Notwist", "name": "Consequence", "album": "Neon Golden", "duration": 313.226}
+{"artist": "Hudson Mohawke", "name": "Chimes", "album": "Chimes", "duration": 211.332}
+{"artist": "XXXTENTACION", "name": "Look At Me!", "album": "Revenge", "duration": 126.345}
+{"artist": "Andrew Seoul", "name": "Evil Morty (From \"Rick and Morty\")", "album": "Evil Morty (From \"Rick and Morty\")", "duration": 150.013}
+{"artist": "Technotronic Felly", "name": "Pump Up The Jam - Edit", "album": "Best Of", "duration": 215.04}
+{"artist": "Lazza Low Kidd Salmo Nitro", "name": "MOB (feat. Salmo & Nitro)", "album": "Zzala", "duration": 213.613}
+{"artist": "MACHETE Salmo Lazza", "name": "SUGAR - prod. Low Kidd - Salmo", "album": "MACHETE MIXTAPE 4", "duration": 160.787}
+{"artist": "Salmo", "name": "TIE'", "album": "Playlist", "duration": 90.933}
+{"artist": "Salmo Sfera Ebbasta", "name": "CABRIOLET (feat. Sfera Ebbasta)", "album": "Playlist", "duration": 185.573}
+{"artist": "Salmo", "name": "L'alba", "album": "Hellvisback", "duration": 176.746}
+{"artist": "Salmo", "name": "PERDONAMI", "album": "PERDONAMI", "duration": 135.294}
+{"artist": "Salmo", "name": "Io sono qui", "album": "Hellvisback", "duration": 180.88}
+{"artist": "Salmo", "name": "Giuda", "album": "Hellvisback", "duration": 138.96}
+{"artist": "Salmo", "name": "Mic Taser", "album": "Hellvisback", "duration": 188.946}
+{"artist": "Foo Fighters", "name": "All My Life", "album": "One By One (Expanded Edition)", "duration": 263.44}
+{"artist": "Barry White", "name": "I'm Gonna Love You Just A Little More Baby", "album": "I've Got So Much To Give", "duration": 431.506}
+{"artist": "Benny Benassi Gary Go Skrillex", "name": "Cinema - Skrillex Remix", "album": "Cinema", "duration": 307.931}
+{"artist": "Sting", "name": "Shape Of My Heart", "album": "Ten Summoner's Tales", "duration": 279.226}
+{"artist": "Annalisa", "name": "Avocado Toast", "album": "Avocado Toast", "duration": 143.078}
+{"artist": "Engelwood", "name": "Crystal Dolphin", "album": "Crust Fm", "duration": 115.517}
+{"artist": "MACHETE Salmo Nitro Marracash", "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd", "album": "MACHETE MIXTAPE 4", "duration": 144.097}
+{"artist": "MACHETE Salmo Hell Raton", "name": "GANG! - prod. Strage", "album": "MACHETE MIXTAPE 4", "duration": 162.818}
+{"artist": "MACHETE Salmo Lazza", "name": "BUD SPENCER - prod. Dade - Low Kidd - Salmo", "album": "MACHETE MIXTAPE 4", "duration": 111.583}
+{"artist": "Salmo Nitro", "name": "Space Invaders (feat. Nitro)", "album": "Midnite (Deluxe Version)", "duration": 224.106}
+{"artist": "Yung Joc Nitti", "name": "It's Goin' Down (feat. Nitti)", "album": "New Joc City", "duration": 241.84}
+{"artist": "Black Eyed Peas", "name": "Labor Day (It's A Holiday)", "album": "Elephunk", "duration": 238.733}
+{"artist": "2 Chainz Drake Quavo", "name": "Bigger Than You (feat. Drake & Quavo)", "album": "Bigger Than You feat. Drake & Quavo", "duration": 225.893}
+{"artist": "Flow & Zeo Wehbba", "name": "Spin It - Wehbba Remix", "album": "Spin It (Remixes)", "duration": 484.549}
+{"artist": "DMX", "name": "Party Up (Up in Here) - Re-Recorded", "album": "Greatest Hits with a Twist - Deluxe Edition", "duration": 297.04}
+{"artist": "Ty Roots Manuva", "name": "So U Want Morre? - refix", "album": "Oh U Want More?", "duration": 221.186}
+{"artist": "DJ Mes Rescue", "name": "Bring It Back", "album": "Bring It Back", "duration": 394.146}
+{"artist": "Dj Vag", "name": "It's Start Time", "album": "32 Pads (with Stek)", "duration": 92.107}
+{"artist": "Missy Elliott Ludacris", "name": "One Minute Man (feat. Ludacris)", "album": "Miss E... So Addictive", "duration": 252.986}
+{"artist": "Dope Boyz", "name": "O.T.I.Z.", "album": "Sold out, Vol.1", "duration": 139.337}
+{"artist": "Michael Jackson", "name": "Wanna Be Startin' Somethin'", "album": "Thriller 25 Super Deluxe Edition", "duration": 362.373}
+{"artist": "Michael Jackson", "name": "The Way You Make Me Feel", "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I", "duration": 297.4}
+{"artist": "Silverwood Quartet", "name": "Vivaldi: Winter From The Four Seasons 1. Allegro Non Molto", "album": "To Drive The Cold Winter Away", "duration": 216.36}
+{"artist": "Amy Winehouse", "name": "Tears Dry On Their Own", "album": "Back To Black", "duration": 185.186}
+{"artist": "Ludwig van Beethoven Paul Lewis", "name": "Sonata No. 14 \"Moonlight\" in C-Sharp Minor\", Op. 27 No. 2: I. Adagio sostenuto", "album": "Beethoven: Piano Sonatas, Vol.3", "duration": 315.426}
+{"artist": "Arthur Rubinstein", "name": "Fantasie-impromptu in C-sharp Minor, Op. 66 No. 4", "album": "Best of Chopin by Arthur Rubinstein", "duration": 310.32}
+{"artist": "P s", "name": "Mentre Non Parlo", "album": "Mentre Non Parlo", "duration": 189.09}
+{"artist": "Barry Manilow", "name": "Copacabana (At the Copa)", "album": "Dance Vault Mixes - Copacabana (At The Copa)", "duration": 236.76}
+{"artist": "Chris Isaak", "name": "Wicked Game", "album": "Best of Chris Isaak (Remastered)", "duration": 286.88}
+{"artist": "CHIC", "name": "Good Times", "album": "Risqu\u00e9", "duration": 495.4}
+{"artist": "FISHER", "name": "Losing It", "album": "Losing It", "duration": 248.035}
+{"artist": "Mahmood", "name": "Soldi", "album": "Giovent\u00f9 Bruciata", "duration": 195.133}
+{"artist": "The Police", "name": "Roxanne", "album": "Outlandos D'Amour (Remastered 2003)", "duration": 191.946}
+{"artist": "Billie Eilish", "name": "bad guy", "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?", "duration": 194.087}
+{"artist": "Halsey", "name": "Without Me", "album": "Without Me", "duration": 201.66}
+{"artist": "David Guetta Sia", "name": "Flames", "album": "Flames", "duration": 195.0}
+{"artist": "Capo Plaza AVA", "name": "Giovane Fuoriclasse", "album": "Giovane Fuoriclasse", "duration": 221.964}
+{"artist": "Twenty One Pilots", "name": "Trapdoor", "album": "Twenty One Pilots", "duration": 277.013}
+{"artist": "blink-182", "name": "Stay Together For The Kids", "album": "Take Off Your Pants And Jacket", "duration": 239.333}
+{"artist": "Petit Biscuit", "name": "Sunset Lover", "album": "Sunset Lover", "duration": 237.792}
+{"artist": "Sting", "name": "Seven Days", "album": "Ten Summoner's Tales", "duration": 278.2}
+{"artist": "Frank Zappa", "name": "Peaches En Regalia", "album": "Hot Rats", "duration": 218.893}
+{"artist": "Samuel Heron", "name": "Illegale", "album": "Genkidama", "duration": 129.543}
+{"artist": "Samuel Heron", "name": "Gang (ora)", "album": "Triste", "duration": 162.994}
+{"artist": "Salmo", "name": "ORA CHE FAI?", "album": "Playlist", "duration": 130.506}
+{"artist": "Salmo", "name": "PERDONAMI", "album": "Playlist", "duration": 134.413}
+{"artist": "Salmo", "name": "PXM", "album": "Playlist", "duration": 184.506}
+{"artist": "Salmo", "name": "HO PAURA DI USCIRE", "album": "Playlist", "duration": 197.746}
+{"artist": "KYLE Kehlani", "name": "Playinwitme (feat. Kehlani)", "album": "Light of Mine", "duration": 191.68}
+{"artist": "John Williams", "name": "The Spell of the Skull", "album": "Indiana Jones and the Kingdom of the Crystal Skull (Original Motion Picture Soundtrack)", "duration": 264.106}
+{"artist": "Jaden", "name": "Yeah Yeah", "album": "The Sunset Tapes: A Cool Tape Story", "duration": 173.826}
+{"artist": "Logic Alessia Cara Khalid", "name": "1-800-273-8255", "album": "Everybody", "duration": 250.173}
+{"artist": "Salmo", "name": "Black Widow", "album": "Hellvisback", "duration": 194.2}
+{"artist": "Billie Eilish", "name": "my strange addiction", "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?", "duration": 179.889}
+{"artist": "Salmo", "name": "Hellvisback", "album": "Hellvisback Platinum", "duration": 276.133}
+{"artist": "Salmo Hell Raton En?gma Slait", "name": "The Island (feat. Hell Raton, En?gma & Slait)", "album": "Midnite (Deluxe Version)", "duration": 222.893}
+{"artist": "The Presidents Of The United States Of America", "name": "Meanwhile Back in the City", "album": "Freaked Out And Small", "duration": 203.333}
+{"artist": "Salmo NSTASIA", "name": "IL CIELO NELLA STANZA (feat. NSTASIA)", "album": "Playlist", "duration": 186.213}
+{"artist": "T.Williams James Jacob Tim Deluxe", "name": "The Learning Process", "album": "The Learning Process", "duration": 323.595}
+{"artist": "Salmo", "name": "Il senso dell'odio", "album": "The Island Chainsaw Massacre", "duration": 220.682}
+{"artist": "Muse", "name": "Panic Station", "album": "The 2nd Law", "duration": 184.2}
+{"artist": "2Pac", "name": "Ambitionz Az A Ridah", "album": "All Eyez On Me", "duration": 278.386}
+{"artist": "DJ Antoine Armando Jimmi The Dealer", "name": "El Paradiso - DJ Antoine vs. Mad Mark 2k18 Mix", "album": "El Paradiso", "duration": 219.992}
+{"artist": "Nancy Sinatra", "name": "These Boots Are Made For Walkin'", "album": "Boots", "duration": 166.008}
+{"artist": "Aretha Franklin", "name": "Chain of Fools", "album": "Lady Soul (With Bonus Selections)", "duration": 167.066}
+{"artist": "Nina Simone", "name": "Backlash Blues", "album": "Nina Simone Sings The Blues (Expanded Edition)", "duration": 148.826}
+{"artist": "Danny Elfman", "name": "Spider-Man 2 Main Title", "album": "Spider-Man 2 Original Motion Picture Score", "duration": 201.493}
+{"artist": "Alexandre Desplat London Symphony Orchestra", "name": "The Imitation Game", "album": "The Imitation Game (Original Motion Picture Soundtrack)", "duration": 157.026}
+{"artist": "Billie Eilish", "name": "when the party's over", "album": "when the party's over", "duration": 199.931}
+{"artist": "Sergio Mauri", "name": "Tango del mare", "album": "Canti popolari, Vol. II", "duration": 185.544}
+{"artist": "Billie Eilish", "name": "bury a friend", "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?", "duration": 193.143}
+{"artist": "Anika Nilles", "name": "Alter Ego - Bonus Track", "album": "Pikalar", "duration": 216.75}
+{"artist": "Bed\u0159ich Smetana Slovak Philharmonic Kurt Redel", "name": "La Moldau", "album": "Dvorak : Symphonie du nouveau monde smetana : La moldau", "duration": 809.452}
+{"artist": "Frah Quintale Giorgio Poi", "name": "Missili", "album": "Lungolinea.", "duration": 195.349}
+{"artist": "Frah Quintale", "name": "Sotto effetto", "album": "Lungolinea.", "duration": 191.703}
+{"artist": "Fanfare Vagabontu", "name": "B\u00e3tut\u00e3 din Moldova", "album": "Raving Rabbids / Rabbids Go Home Soundtrack", "duration": 75.567}
+{"artist": "Salmo Fabri Fibra", "name": "STAI ZITTO (feat. Fabri Fibra)", "album": "Playlist", "duration": 202.573}
+{"artist": "Salmo", "name": "1984", "album": "Hellvisback", "duration": 249.613}
+{"artist": "MadMan", "name": "Bolla Papale Freestyle", "album": "MM Vol. 2", "duration": 126.0}
+{"artist": "Salmo", "name": "90MIN", "album": "Playlist", "duration": 231.92}
+{"artist": "The Police", "name": "Every Little Thing She Does Is Magic - Remastered 2003", "album": "Ghost In The Machine (Remastered)", "duration": 259.5}
+{"artist": "Calcutta ", "name": "Paracetamolo", "album": "Evergreen", "duration": 178.053}
+{"artist": "C418", "name": "Sweden", "album": "Minecraft - Volume Alpha", "duration": 215.5}
+{"artist": "Brian Gonzales Jonathan Schwartz Brandon O'Neill James Monroe Iglehart Aladdin Original Broadway Cast", "name": "Prince Ali", "album": "Aladdin Original Broadway Cast Recording", "duration": 355.413}
+{"artist": "James Monroe Iglehart Adam Jacobs Aladdin Original Broadway Cast", "name": "Friend Like Me", "album": "Aladdin Original Broadway Cast Recording", "duration": 452.466}
+{"artist": "Paolo Conte", "name": "Via con me", "album": "Paris Milonga", "duration": 166.16}
+{"artist": "U2", "name": "Ordinary Love", "album": "Mandela \u2013 Long Walk To Freedom (Original Motion Picture Soundtrack) [UK/International]", "duration": 221.2}
+{"artist": "Tony! Toni! Ton\u00e9! DJ Quik", "name": "Let's Get Down", "album": "House Of Music", "duration": 299.506}
+{"artist": "Erykah Badu", "name": "Didn't Cha Know", "album": "Mama's Gun", "duration": 238.733}
+{"artist": "Floetry", "name": "Floetic", "album": "Floetic", "duration": 246.493}
+{"artist": "Mayer Hawthorne", "name": "Just Ain't Gonna Work Out", "album": "A Strange Arrangement", "duration": 150.933}
+{"artist": "Art Farmer", "name": "Fair Weather - Remastered", "album": "Modern Art", "duration": 344.066}
+{"artist": "Sonny Clark", "name": "Cool Struttin'", "album": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)", "duration": 563.613}
+{"artist": "Kyle Dixon & Michael Stein", "name": "Stranger Things", "album": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)", "duration": 67.52}
+{"artist": "The Jackson 5", "name": "I Want You Back", "album": "The Very Best Of Michael Jackson With The Jackson 5", "duration": 181.026}
+{"artist": "DJ Shadow Mos Def", "name": "Six Days - Remix", "album": "The Fast And The Furious Soundtrack Collection", "duration": 232.0}
+{"artist": "Evanescence", "name": "Bring Me To Life", "album": "Fallen", "duration": 235.893}
+{"artist": "Limp Bizkit", "name": "Rollin' (Air Raid Vehicle)", "album": "Chocolate Starfish And The Hot Dog Flavored Water", "duration": 213.76}
+{"artist": "Taalbi Brothers", "name": "Freestyle", "album": "Freestyle (Single)", "duration": 213.735}
+{"artist": "Rick Astley", "name": "Never Gonna Give You Up", "album": "Whenever You Need Somebody", "duration": 213.573}
+{"artist": "Yes", "name": "Roundabout - 2003 Remaster", "album": "Fragile (Deluxe Edition)", "duration": 510.573}
+{"artist": "Twenty One Pilots", "name": "Chlorine", "album": "Trench", "duration": 324.466}
+{"artist": "The Animals", "name": "House of the Rising Sun", "album": "The Singles Plus", "duration": 269.906}
+{"artist": "Miles Davis", "name": "Nefertiti", "album": "Nefertiti (Expanded Edition)", "duration": 470.733}
+{"artist": "Frank Sinatra", "name": "In The Wee Small Hours Of The Morning - Remastered 1998", "album": "In The Wee Small Hours", "duration": 180.933}
+{"artist": "Frank Sinatra", "name": "Mood Indigo - Remastered", "album": "In The Wee Small Hours", "duration": 210.066}
+{"artist": "Frank Sinatra", "name": "Glad To Be Unhappy - Remastered", "album": "In The Wee Small Hours", "duration": 155.493}
+{"artist": "Frank Sinatra", "name": "I Get Along Without You Very Well - Remastered", "album": "In The Wee Small Hours", "duration": 222.6}
+{"artist": "Frank Sinatra", "name": "Deep In A Dream - Remastered", "album": "In The Wee Small Hours", "duration": 169.373}
+{"artist": "Frank Sinatra", "name": "I See Your Face Before Me - Remastered", "album": "In The Wee Small Hours", "duration": 204.026}
+{"artist": "Frank Sinatra", "name": "Can't We Be Friends? - Remastered", "album": "In The Wee Small Hours", "duration": 168.04}
+{"artist": "Frank Sinatra", "name": "When Your Lover Has Gone - Remastered", "album": "In The Wee Small Hours", "duration": 190.2}
+{"artist": "Frank Sinatra", "name": "What Is This Thing Called Love - Remastered", "album": "In The Wee Small Hours", "duration": 155.56}
+{"artist": "Frank Sinatra", "name": "Last Night When We Were Young - Remastered", "album": "In The Wee Small Hours", "duration": 197.133}
+{"artist": "Frank Sinatra", "name": "I'll Be Around - Remastered", "album": "In The Wee Small Hours", "duration": 179.2}
+{"artist": "Frank Sinatra", "name": "Ill Wind - Remastered", "album": "In The Wee Small Hours", "duration": 226.306}
+{"artist": "Frank Sinatra", "name": "It Never Entered My Mind - Remastered", "album": "In The Wee Small Hours", "duration": 162.226}
+{"artist": "Frank Sinatra", "name": "Dancing On The Ceiling - Remastered", "album": "In The Wee Small Hours", "duration": 177.333}
+{"artist": "Frank Sinatra", "name": "I'll Never Be The Same - Remastered", "album": "In The Wee Small Hours", "duration": 185.866}
+{"artist": "Frank Sinatra", "name": "This Love Of Mine - 1998 Remastered", "album": "In The Wee Small Hours", "duration": 213.933}
+{"artist": "TOTO", "name": "Mushanga", "album": "The Seventh One", "duration": 335.066}
+{"artist": "James Brown & The Famous Flames", "name": "I Got You (I Feel Good)", "album": "I Got You (I Feel Good)", "duration": 165.8}
+{"artist": "James Brown The Original J.B.s", "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2", "album": "70's Funk Classics", "duration": 318.8}
+{"artist": "James Brown", "name": "Funky Drummer", "album": "In The Jungle Groove", "duration": 553.533}
+{"artist": "Spandau Ballet", "name": "Gold", "album": "Gold - The Best of Spandau Ballet", "duration": 231.48}
+{"artist": "P s", "name": "Gocce", "album": "Gocce", "duration": 137.142}
+{"artist": "Ahmad Jamal Trio", "name": "I Love Music", "album": "The Awakening", "duration": 439.266}
+{"artist": "Take That", "name": "Love Love", "album": "Progressed", "duration": 223.773}
+{"artist": "Midnight", "name": "Lionheart", "album": "The Legend Has Begun", "duration": 238.499}
+{"artist": "Midnight", "name": "Mayfly", "album": "The Legend Has Begun", "duration": 124.027}
+{"artist": "Midnight", "name": "Twilight of the Vikings", "album": "The Legend Has Begun", "duration": 402.54}
+{"artist": "Midnight", "name": "Over the Hills (Not Far Away)", "album": "The Legend Has Begun", "duration": 202.012}
+{"artist": "Midnight", "name": "Boudica (The Mists of Mona)", "album": "The Legend Has Begun", "duration": 344.565}
+{"artist": "Midnight", "name": "Echo of Ancient Time, Pt. 1", "album": "The Legend Has Begun", "duration": 292.113}
+{"artist": "Midnight", "name": "Echo of Ancient Time, Pt. 2", "album": "The Legend Has Begun", "duration": 127.179}
+{"artist": "Midnight", "name": "Thread of Fate", "album": "The Legend Has Begun", "duration": 266.047}
+{"artist": "Midnight", "name": "The Well", "album": "The Legend Has Begun", "duration": 131.692}
+{"artist": "Midnight", "name": "The Dragon Will Never Die", "album": "The Legend Has Begun", "duration": 289.519}
+{"artist": "Midnight", "name": "The Wolf and the Moon", "album": "The Legend Has Begun", "duration": 307.159}
+{"artist": "Twenty One Pilots", "name": "Implicit Demand For Proof", "album": "Twenty One Pilots", "duration": 291.933}
+{"artist": "The Police", "name": "It's Alright For You - Remastered 2003", "album": "Reggatta De Blanc (Remastered)", "duration": 192.013}
+{"artist": "The Police", "name": "Walking On The Moon - Remastered 2003", "album": "Reggatta De Blanc (Remastered)", "duration": 300.826}
+{"artist": "The Police", "name": "The Bed's Too Big Without You - Remastered 2003", "album": "Reggatta De Blanc (Remastered)", "duration": 265.093}
+{"artist": "Sungazer", "name": "Drunk - Live", "album": "Live at UFO Sound Studios", "duration": 271.026}
+{"artist": "Sungazer", "name": "Dream of Mahjong - Live", "album": "Live at UFO Sound Studios", "duration": 151.416}
+{"artist": "Miles Davis", "name": "Footprints", "album": "Miles Smiles", "duration": 585.96}
+{"artist": "Sting", "name": "Englishman In New York", "album": "Nothing Like The Sun", "duration": 266.96}
+{"artist": "Miles Davis John Coltrane Hank Mobley Wynton Kelly Paul Chambers Jimmy Cobb", "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)", "album": "Someday My Prince Will Come", "duration": 542.4}
+{"artist": "P.MO", "name": "Whatcha Know", "album": "Whatcha Know", "duration": 165.651}
+{"artist": "Green Day", "name": "21 Guns", "album": "21st Century Breakdown", "duration": 321.093}
+{"artist": "Foo Fighters", "name": "The Pretender", "album": "Echoes, Silence, Patience & Grace", "duration": 269.373}
+{"artist": "Green Day", "name": "When I Come Around", "album": "Dookie", "duration": 178.0}
+{"artist": "Blur", "name": "Song 2 - 2012 Remaster", "album": "Blur (Special Edition)", "duration": 121.16}
+{"artist": "OVERWERK", "name": "Create", "album": "Canon", "duration": 355.672}
+{"artist": "OVERWERK", "name": "Canon", "album": "Canon", "duration": 298.282}
+{"artist": "OVERWERK", "name": "Toccata", "album": "Canon", "duration": 410.742}
+{"artist": "OVERWERK", "name": "Daybreak - Edit", "album": "Daybreak (Edit)", "duration": 304.326}
+{"artist": "Calvin Harris Sam Smith Jessie Reyez", "name": "Promises (with Sam Smith)", "album": "Promises (with Sam Smith)", "duration": 213.309}
+{"artist": "Steppenwolf", "name": "Born To Be Wild", "album": "Steppenwolf", "duration": 210.373}
+{"artist": "Dave Brubeck", "name": "Blue Rondo \u00e0 la Turk", "album": "Dave Brubeck's Greatest Hits", "duration": 403.693}
+{"artist": "George Gershwin Michael Tilson Thomas Los Angeles Philharmonic Lorin Levee", "name": "Rhapsody in Blue", "album": "Gershwin: Rhapsody in Blue", "duration": 946.4}
+{"artist": "Munich Piano Trio", "name": "Libertango", "album": "Piazzolla, A.: 4 Estaciones Portenas (Las) / Oblivion / Chiquilin De Bachin / Yo Soy Maria / Escualo / Libertango", "duration": 203.96}
+{"artist": "Dennis Brown", "name": "Revolution", "album": "Reggae Anthology: Dennis Brown - Crown Prince of Reggae - Singles (1972-1985)", "duration": 259.399}
+{"artist": "Logic Marshmello", "name": "Everyday", "album": "Bobby Tarantino II", "duration": 204.746}
+{"artist": "The Police", "name": "Roxanne - Remastered 2003", "album": "Outlandos D'Amour (Remastered)", "duration": 191.5}
+{"artist": "Anderson .Paak", "name": "'Til It's Over", "album": "'Til It's Over", "duration": 202.08}
+{"artist": "Dargen D'Amico Fedez Mistico", "name": "Bocciofili (con Fedez e Mistico)", "album": "Vivere Aiuta A Non Morire", "duration": 239.253}
+{"artist": "Pop X", "name": "Io centro con i missili", "album": "Best Of", "duration": 192.0}
+{"artist": "The Police", "name": "Can't Stand Losing You", "album": "Greatest Hits", "duration": 168.826}
+{"artist": "Ahmad Jamal Trio", "name": "I Love Music", "album": "But Not For Me", "duration": 442.226}
+{"artist": "Dela", "name": "Stakes Is High", "album": "Atmosphere Airlines Vol.1", "duration": 128.114}
+{"artist": "Nas", "name": "The World Is Yours", "album": "Illmatic", "duration": 290.573}
+{"artist": "Daniele Luppi", "name": "Marco Polo Main Titles", "album": "Marco Polo (Music from the Netflix Original Series)", "duration": 94.453}
+{"artist": "Arctic Monkeys", "name": "R U Mine?", "album": "AM", "duration": 201.726}
+{"artist": "Biagio Antonacci", "name": "Non vivo pi\u00f9 senza te", "album": "Sapessi dire no", "duration": 212.226}
+{"artist": "Muse", "name": "Pressure", "album": "Pressure / The Dark Side / Something Human / Thought Contagion / Dig Down", "duration": 235.6}
+{"artist": "Pink Floyd", "name": "Hey You", "album": "The Wall", "duration": 278.44}
+{"artist": "2Pac", "name": "All Eyez On Me", "album": "All Eyez On Me", "duration": 307.773}
+{"artist": "Twenty One Pilots", "name": "Heavydirtysoul", "album": "Blurryface", "duration": 234.813}
+{"artist": "The Doors", "name": "Touch Me", "album": "The Soft Parade", "duration": 190.253}
+{"artist": "Black Stone Cherry", "name": "Can't You See", "album": "Between the Devil & the Deep Blue Sea (Special Edition)", "duration": 211.16}
+{"artist": "Muse", "name": "Thought Contagion", "album": "Pressure / The Dark Side / Something Human / Thought Contagion / Dig Down", "duration": 206.106}
+{"artist": "Music Maverick", "name": "Bittersweet - A Tribute to Ellie Goulding", "album": "Bittersweet (A Tribute to Ellie Goulding)", "duration": 233.665}
+{"artist": "Imagine Dragons", "name": "Monster", "album": "Smoke + Mirrors (Deluxe)", "duration": 250.506}
+{"artist": "AllttA 20syl Mr. J. Medeiros", "name": "AllttA", "album": "The Upper Hand", "duration": 204.688}
+{"artist": "Mika Ogawa", "name": "again (\u7b2c1\u301c13\u8a71OP)", "album": "\u71b1\u70c8!\u30a2\u30cb\u30bd\u30f3\u9b42 THE BEST \u30ab\u30cf\u3099\u30fc\u697d\u66f2\u96c6 TV\u30a2\u30cb\u30e1\u30b7\u30ea\u30fc\u30b9\u3099\u300c\u92fc\u306e\u932c\u91d1\u8853\u5e2bFULLMETAL ALCHEMIST\u300d vol.1 [\u4e3b\u984c\u6b4cOP/ED \u7de8]", "duration": 252.712}
+{"artist": "Thegiornalisti", "name": "Felicit\u00e0 puttana", "album": "Felicit\u00e0 puttana", "duration": 219.806}
+{"artist": "Twenty One Pilots", "name": "Ride", "album": "Blurryface", "duration": 214.506}
+{"artist": "Twenty One Pilots", "name": "Car Radio", "album": "Vessel", "duration": 267.72}
+{"artist": "Ant\u00f4nio Carlos Jobim Frank Sinatra", "name": "The Girl From Ipanema", "album": "Sinatra/Jobim: The Complete Reprise Recordings", "duration": 200.36}
+{"artist": "Al Jarreau", "name": "Take Five - Live 1977 Version", "album": "Look to the Rainbow - Live in Europe", "duration": 451.666}
+{"artist": "Muse", "name": "The Dark Side", "album": "The Dark Side / Something Human / Thought Contagion / Dig Down", "duration": 227.213}
+{"artist": "Wiz Khalifa", "name": "Black and Yellow", "album": "Rolling Papers", "duration": 217.666}
+{"artist": "The Chainsmokers", "name": "Sick Boy", "album": "Sick Boy...Save Yourself", "duration": 193.893}
+{"artist": "The Police", "name": "Message In A Bottle - Remastered 2003", "album": "Reggatta De Blanc (Remastered)", "duration": 290.28}
+{"artist": "Twenty One Pilots", "name": "Lane Boy", "album": "Blurryface", "duration": 253.093}
+{"artist": "Eminem Joyner Lucas", "name": "Lucky You (feat. Joyner Lucas)", "album": "Kamikaze", "duration": 244.679}
+{"artist": "ODESZA Zyra", "name": "It\u2019s Only (feat. Zyra)", "album": "In Return", "duration": 268.0}
+{"artist": "Twenty One Pilots", "name": "Jumpsuit", "album": "Jumpsuit / Nico And The Niners", "duration": 238.567}
+{"artist": "Ariana Grande", "name": "God is a woman", "album": "Sweetener", "duration": 197.546}
+{"artist": "Ariana Grande The Weeknd", "name": "Love Me Harder", "album": "My Everything", "duration": 236.133}
+{"artist": "Michael Jackson", "name": "Another Part of Me - 2012 Remaster", "album": "Bad 25th Anniversary", "duration": 234.72}
+{"artist": "Michael Jackson", "name": "Don't Stop 'Til You Get Enough", "album": "Off the Wall", "duration": 365.466}
+{"artist": "The Jacksons", "name": "Blame It on the Boogie", "album": "Destiny", "duration": 214.2}
+{"artist": "Gnarls Barkley", "name": "Who's Gonna Save My Soul", "album": "The Odd Couple", "duration": 195.133}
+{"artist": "Gnarls Barkley", "name": "Going On", "album": "The Odd Couple", "duration": 174.04}
+{"artist": "Gnarls Barkley", "name": "Crazy", "album": "St. Elsewhere", "duration": 177.466}
+{"artist": "Linkin Park", "name": "Bleed It Out", "album": "Minutes to Midnight", "duration": 166.373}
+{"artist": "John Denver", "name": "Take Me Home, Country Roads - Rerecorded", "album": "The John Denver Collection, Vol. 1: Take Me Home Country Roads", "duration": 197.813}
+{"artist": "Marco Ferradini", "name": "Teorema", "album": "Cerco Qualcuno", "duration": 287.439}
+{"artist": "Tears For Fears", "name": "Everybody Wants To Rule The World", "album": "Songs From The Big Chair (Super Deluxe Edition)", "duration": 251.488}
+{"artist": "ARASHI", "name": "vestige (\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED DESTINY)", "album": "JAPAN ANIMESONG COLLECTION VOL.1 [\u30a2\u30cb\u30bd\u30f3 \u30b8\u30e3\u30d1\u30f3]", "duration": 331.174}
+{"artist": "Lemaitre Jennie A.", "name": "Closer", "album": "Chapter One", "duration": 270.589}
+{"artist": "Cecilia Krull", "name": "My Life Is Going On (M\u00fasica Original De La Serie De TV La Casa De Papel / Money Heist)", "album": "My Life Is Going On (M\u00fasica Original De La Serie De TV La Casa De Papel / Money Heist)", "duration": 214.2}
+{"artist": "Muse", "name": "Sunburn", "album": "Showbiz", "duration": 233.733}
+{"artist": "Royal Blood", "name": "Figure It Out", "album": "Royal Blood", "duration": 183.602}
+{"artist": "insaneintherainmusic Chris Allison Adriana Figueroa Brandon Miles Shelton", "name": "Last Surprise", "album": "Last Surprise", "duration": 362.791}
+{"artist": "BLACKPINK", "name": "DDU-DU DDU-DU", "album": "SQUARE UP", "duration": 209.355}
+{"artist": "James Brown 2Pac", "name": "Unchained (The Payback / Untouchable)", "album": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack", "duration": 171.573}
+{"artist": "Fabio Rovazzi", "name": "Faccio Quello Che Voglio", "album": "Faccio Quello Che Voglio", "duration": 200.655}
+{"artist": "Edoardo Vianello", "name": "Abbronzatissima", "album": "Edoardo Vianello", "duration": 149.6}
+{"artist": "De-Phazz", "name": "Cut the Jazz", "album": "Detunized Gravity", "duration": 312.226}
+{"artist": "Swedish House Mafia John Martin", "name": "Don't You Worry Child - Radio Edit", "album": "Don't You Worry Child", "duration": 212.862}
+{"artist": "JAY-Z Linkin Park", "name": "Numb / Encore", "album": "Collision Course (Deluxe Version)", "duration": 205.28}
+{"artist": "Amy Winehouse", "name": "You Know I'm No Good", "album": "Back To Black", "duration": 256.946}
+{"artist": "Grits TobyMac", "name": "Ooh Ahh (My Life Be Like) (feat. Toby Mac)", "album": "The Art of Translation", "duration": 233.173}
+{"artist": "2Pac Roger Dr. Dre", "name": "California Love - Original Version (Explicit)", "album": "2Pac Greatest Hits (Explicit Version)", "duration": 284.906}
+{"artist": "Bag Raiders", "name": "Shooting Stars", "album": "Bag Raiders (Deluxe)", "duration": 235.813}
+{"artist": "Foo Fighters", "name": "Learn to Fly", "album": "There Is Nothing Left To Lose", "duration": 235.293}
+{"artist": "Giuseppe Verdi Christine Brewer Karen Cargill Stuart Neill John Relyea Sir Colin Davis London Symphony Orchestra", "name": "Requiem: II. Dies irae", "album": "Verdi: Requiem", "duration": 137.16}
+{"artist": "Logic", "name": "Hallelujah", "album": "Everybody", "duration": 448.733}
+{"artist": "LIBERATO", "name": "INTOSTREET", "album": "INTOSTREET", "duration": 255.194}
+{"artist": "Paramore", "name": "Decode - Twilight Soundtrack Version", "album": "Brand New Eyes", "duration": 261.959}
+{"artist": "Paramore", "name": "Monster - Transformers Soundtrack Version", "album": "Monster", "duration": 200.146}
+{"artist": "Muse", "name": "Psycho", "album": "Drones", "duration": 316.717}
+{"artist": "LIBERATO", "name": "TU T'E SCURDAT' 'E ME", "album": "TU T'E SCURDAT' 'E ME", "duration": 241.995}
+{"artist": "Gemitaiz MadMan", "name": "Blue Sky", "album": "Kepler", "duration": 187.615}
+{"artist": "Eiffel 65 Gabry Ponte", "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio", "album": "Europop", "duration": 283.747}
+{"artist": "George Michael", "name": "Careless Whisper", "album": "Ladies And Gentlemen... The Best Of George Michael", "duration": 300.106}
+{"artist": "Moodtapes", "name": "Clare De Lune (De bussy)", "album": "Romantic Classics By A Gentle Mountain Stream", "duration": 371.013}
+{"artist": "Ghali", "name": "Happy Days", "album": "Album", "duration": 198.12}
+{"artist": "CamelPhat Elderbrook", "name": "Cola - Club Mix", "album": "Cola", "duration": 415.651}
+{"artist": "Pitbull TJR", "name": "Don't Stop the Party (feat. TJR)", "album": "Global Warming: Meltdown (Deluxe Version)", "duration": 206.12}
+{"artist": "The Beat Mechanics", "name": "Niggas In Paris (As Made Famous By Kanye West & Jay-Z Instrumental Cover)", "album": "Party Harty Vol.3", "duration": 185.626}
+{"artist": "Paramore", "name": "Misery Business", "album": "Riot!", "duration": 211.52}
+{"artist": "Lana Del Rey", "name": "Blue Jeans", "album": "Born To Die - The Paradise Edition", "duration": 209.44}
+{"artist": "Childish Gambino", "name": "This Is America", "album": "This Is America", "duration": 225.773}
+{"artist": "Nora En Pure", "name": "Come With Me - Radio Mix", "album": "Come With Me", "duration": 173.625}
+{"artist": "Dua Lipa", "name": "IDGAF", "album": "IDGAF", "duration": 217.946}
+{"artist": "Gorillaz", "name": "On Melancholy Hill", "album": "Plastic Beach", "duration": 233.866}
+{"artist": "Future", "name": "Mask Off", "album": "FUTURE", "duration": 204.6}
+{"artist": "Alicia Keys", "name": "Empire State of Mind (Part II) Broken Down", "album": "The Element Of Freedom", "duration": 216.48}
+{"artist": "Cam\u2019ron JAY-Z Juelz Santana", "name": "Welcome To New York City", "album": "Come Home With Me", "duration": 309.6}
+{"artist": "Rag'n'Bone Man", "name": "Human", "album": "Human (Deluxe)", "duration": 200.186}
+{"artist": "Black Eyed Peas", "name": "Pump It", "album": "Monkey Business", "duration": 213.066}
+{"artist": "Boz Scaggs", "name": "I Don't Hear You", "album": "Other Roads (Expanded)", "duration": 281.853}
+{"artist": "Caparezza Alborosie", "name": "Legalize The Premier", "album": "Il Sogno Eretico", "duration": 263.106}
+{"artist": "Drake", "name": "Hotline Bling", "album": "Views", "duration": 267.066}
+{"artist": "Pharoahe Monch", "name": "Simon Says", "album": "Classic Hip-Hop", "duration": 173.266}
+{"artist": "Ghali", "name": "Cara Italia", "album": "Cara Italia", "duration": 244.324}
+{"artist": "Barry White", "name": "Never, Never Gonna Give Ya Up", "album": "Barry White's Greatest Hits", "duration": 290.666}
+{"artist": "Chill Bump", "name": "The Eponym", "album": "The Loop - EP", "duration": 144.869}
+{"artist": "Chill Bump", "name": "Eight", "album": "Crumbs", "duration": 122.253}
+{"artist": "Chill Bump", "name": "Not Today", "album": "Ego Trip", "duration": 188.917}
+{"artist": "Burning Spear", "name": "Red, Gold and Green", "album": "Live In South Africa 2000", "duration": 802.706}
+{"artist": "Bob Marley & The Wailers", "name": "One Drop", "album": "Survival", "duration": 231.773}
+{"artist": "Black Uhuru", "name": "Sponji Reggae", "album": "Red", "duration": 293.44}
+{"artist": "Gorillaz Popcaan", "name": "Saturnz Barz (feat. Popcaan)", "album": "Humanz (Deluxe)", "duration": 181.906}
+{"artist": "Gorillaz", "name": "Dirty Harry", "album": "Demon Days", "duration": 230.426}
+{"artist": "Gorillaz", "name": "DARE", "album": "Demon Days", "duration": 244.999}
+{"artist": "Gorillaz", "name": "Clint Eastwood", "album": "Gorillaz", "duration": 340.92}
+{"artist": "Gorillaz", "name": "Feel Good Inc.", "album": "Demon Days", "duration": 222.64}
+{"artist": "Fleetwood Mac", "name": "The Chain - 2004 Remaster", "album": "Rumours (Super Deluxe)", "duration": 270.213}
+{"artist": "Aliotta Haynes Jeremiah", "name": "Lake Shore Drive", "album": "Lake Shore Drive", "duration": 235.173}
+{"artist": "Nicky Jam J Balvin", "name": "X", "album": "X", "duration": 173.627}
+{"artist": "Boney M.", "name": "Rasputin", "album": "Daddy Cool", "duration": 220.666}
+{"artist": "Dua Lipa", "name": "New Rules", "album": "Dua Lipa (Deluxe)", "duration": 209.32}
+{"artist": "Com Truise", "name": "Sunspot", "album": "Silicon Tare", "duration": 244.406}
+{"artist": "Carpenter Brut", "name": "Looking For Tracy Tzu", "album": "TRILOGY", "duration": 257.614}
+{"artist": "Post Malone 21 Savage", "name": "rockstar", "album": "rockstar (feat. 21 Savage)", "duration": 218.32}
+{"artist": "America George Martin", "name": "A Horse with No Name", "album": "America", "duration": 252.239}
+{"artist": "Blue Swede Bj\u00f6rn Skifs", "name": "Hooked On A Feeling", "album": "Hooked On A Feeling", "duration": 172.866}
+{"artist": "Parov Stelar Graham Candy Klingande", "name": "The Sun - Klingande Edit", "album": "The Sun", "duration": 210.442}
+{"artist": "Django Reinhardt", "name": "Brazil", "album": "Django Reinhardt: Legendary Recordings", "duration": 168.72}
+{"artist": "Django Reinhardt St\u00e9phane Grappelli Quintette du Hot Club de France", "name": "Minor Swing", "album": "Djangologie Vol6 / 1937", "duration": 196.626}
+{"artist": "Kanye West", "name": "POWER", "album": "My Beautiful Dark Twisted Fantasy", "duration": 292.093}
+{"artist": "Mayer Hawthorne", "name": "A Strange Arrangement", "album": "A Strange Arrangement", "duration": 256.626}
+{"artist": "Mayer Hawthorne", "name": "Shiny & New", "album": "A Strange Arrangement", "duration": 179.946}
+{"artist": "Anonymous Gaspare Antonio Bartelloni Luca Brunelli Felicetti", "name": "Saltarello 2 [Additional 29987]", "album": "Danze Strumentali Medievali Italiane, Vol. 2", "duration": 93.866}
+{"artist": "Orquesta Sinf\u00f3nica De Radio Ljubljana", "name": "Allegretto (Sinfon\u00eda 7 Opus 92)", "album": "Sinfon\u00eda 4 & Sinfon\u00eda 7", "duration": 538.053}
+{"artist": "Camila Cabello Young Thug", "name": "Havana (feat. Young Thug)", "album": "Camila", "duration": 217.306}
+{"artist": "Green Day", "name": "Holiday", "album": "Holiday", "duration": 233.026}
+{"artist": "Oasis", "name": "Wonderwall - Remastered", "album": "(What's The Story) Morning Glory? [Remastered]", "duration": 258.773}
+{"artist": "John Mayall & The Bluesbreakers", "name": "All Your Love - Stereo Album Version", "album": "Bluesbreakers With Eric Clapton - Deluxe Edition", "duration": 214.733}
+{"artist": "Pink Floyd", "name": "Comfortably Numb - 2011 Remastered Version", "album": "The Wall [2011 - Remaster] (2011 Remastered Version)", "duration": 382.296}
+{"artist": "Jerry Lee Lewis", "name": "Great Balls of Fire", "album": "The Essential Jerry Lee Lewis [The Sun Sessions]", "duration": 111.24}
+{"artist": "Muse", "name": "Time is Running Out", "album": "Absolution", "duration": 237.039}
+{"artist": "SAYGRACE G-Eazy", "name": "You Don't Own Me (feat. G-Eazy)", "album": "Suicide Squad: The Album", "duration": 198.711}
+{"artist": "Twenty One Pilots", "name": "Heathens", "album": "Suicide Squad: The Album", "duration": 195.743}
+{"artist": "Lil Wayne Wiz Khalifa Imagine Dragons X Ambassadors Logic Ty Dolla $ign", "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)", "album": "Suicide Squad: The Album", "duration": 243.49}
+{"artist": "Kendrick Lamar", "name": "HUMBLE.", "album": "DAMN.", "duration": 177.0}
+{"artist": "London Festival Orchestra", "name": "Chopin: Fantasie Impromptu #4 In C Sharp Minor, Op. 66", "album": "Classical Piano's Greatest Moments", "duration": 295.16}
+{"artist": "Michael Giacchino", "name": "The Incredits", "album": "The Incredibles Original Soundtrack", "duration": 441.32}
+{"artist": "Adele", "name": "Rolling in the Deep", "album": "21", "duration": 228.093}
+{"artist": "Arctic Monkeys", "name": "Do I Wanna Know?", "album": "AM", "duration": 272.394}
+{"artist": "Melanie Martinez", "name": "Toxic - The Voice Performance", "album": "Toxic (The Voice Performance)", "duration": 229.053}
+{"artist": "DNCE Nicki Minaj", "name": "Kissing Strangers", "album": "Kissing Strangers", "duration": 202.48}
+{"artist": "Yuji Ohno You & Explosion Band", "name": "Theme From Lupin III '78 - 2002 Version", "album": "LUPIN THE THIRD \u300cJAZZ\u300d ~Another \"JAZZ\"~", "duration": 242.0}
+{"artist": "Muse", "name": "Feeling Good", "album": "Origin of Symmetry", "duration": 198.8}
+{"artist": "The Cranberries", "name": "Zombie", "album": "No Need To Argue (The Complete Sessions 1994-1995)", "duration": 306.44}
+{"artist": "Jimi Hendrix", "name": "Little Wing", "album": "Axis: Bold As Love", "duration": 145.746}
+{"artist": "Caparezza", "name": "Ti Fa Stare Bene", "album": "Prisoner 709", "duration": 250.893}
+{"artist": "TOTO", "name": "Hold the Line", "album": "Toto", "duration": 235.546}
+{"artist": "Caparezza", "name": "Chi Se Ne Frega Della Musica", "album": "Il Sogno Eretico", "duration": 294.106}
+{"artist": "Led Zeppelin", "name": "Black Dog - Basic Track with Guitar Overdubs", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 274.64}
+{"artist": "Nirvana", "name": "Lithium", "album": "Nevermind (Deluxe Edition)", "duration": 257.053}
+{"artist": "Michael Jackson", "name": "Leave Me Alone - 2012 Remaster", "album": "Scream", "duration": 279.426}
+{"artist": "Stevie Wonder", "name": "Superstition - Single Version", "album": "Number Ones", "duration": 244.826}
+{"artist": "Ray Charles", "name": "Hit the Road Jack", "album": "Georgia On My Mind", "duration": 118.266}
+{"artist": "Amy Winehouse", "name": "Back To Black", "album": "Back To Black", "duration": 240.44}
+{"artist": "Foo Fighters", "name": "Everlong", "album": "The Colour And The Shape", "duration": 250.546}
+{"artist": "Johnny Cash", "name": "Ain't No Grave", "album": "American VI: Ain't No Grave", "duration": 173.266}
+{"artist": "Led Zeppelin", "name": "Black Dog - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 295.386}
+{"artist": "Led Zeppelin", "name": "Rock and Roll - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 220.56}
+{"artist": "Led Zeppelin", "name": "The Battle of Evermore - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 351.677}
+{"artist": "Led Zeppelin", "name": "Misty Mountain Hop - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 278.907}
+{"artist": "Led Zeppelin", "name": "Four Sticks - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 285.227}
+{"artist": "Led Zeppelin", "name": "Going to California - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 212.16}
+{"artist": "Led Zeppelin", "name": "Rock and Roll - Alternate Mix", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 219.68}
+{"artist": "Led Zeppelin", "name": "The Battle of Evermore - Mandolin / Guitar Mix from Headley Grange", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 253.373}
+{"artist": "Led Zeppelin", "name": "Stairway to Heaven - Sunset Sound Mix", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 483.666}
+{"artist": "Led Zeppelin", "name": "Misty Mountain Hop - Alternate Mix", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 285.053}
+{"artist": "Led Zeppelin", "name": "Four Sticks - Alternate Mix", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 273.106}
+{"artist": "Led Zeppelin", "name": "Going to California - Mandolin / Guitar Mix", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 214.226}
+{"artist": "Led Zeppelin", "name": "When the Levee Breaks - Alternate UK Mix in Progress", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 430.826}
+{"artist": "Madcon", "name": "Beggin'", "album": "Here Comes The Weekend", "duration": 215.786}
+{"artist": "Porcupine Tree", "name": "The Sound Of Muzak", "album": "In Absentia", "duration": 301.6}
+{"artist": "Michael Jackson", "name": "Rock with You - Single Version", "album": "Off the Wall", "duration": 220.626}
+{"artist": "Woodkid", "name": "I Love You", "album": "The Golden Age", "duration": 230.16}
+{"artist": "Woodkid", "name": "Run Boy Run", "album": "The Golden Age", "duration": 213.266}
+{"artist": "C\u00e9line Dion", "name": "All By Myself", "album": "Falling Into You", "duration": 312.306}
+{"artist": "Michael Jackson", "name": "Ghosts", "album": "Scream", "duration": 313.2}
+{"artist": "Michael Jackson", "name": "Thriller", "album": "Michael Jackson's This Is It", "duration": 357.493}
+{"artist": "Michael Jackson", "name": "Beat It", "album": "Thriller 25 Super Deluxe Edition", "duration": 258.04}
+{"artist": "Led Zeppelin", "name": "Immigrant Song - Remaster", "album": "Led Zeppelin III (Remaster)", "duration": 146.25}
+{"artist": "Led Zeppelin", "name": "Good Times Bad Times - 1993 Remaster", "album": "Led Zeppelin", "duration": 166.266}
+{"artist": "TV Themes", "name": "Inspector Gadget", "album": "The Greatest Ever Cartoon Television Themes", "duration": 75.24}
+{"artist": "Dr. Dre Snoop Dogg", "name": "Still D.R.E.", "album": "2001 (Explicit Version)", "duration": 268.004}
+{"artist": "Al Green", "name": "Let's Stay Together", "album": "Let's Stay Together", "duration": 199.396}
+{"artist": "Incredible Bongo Band", "name": "Apache", "album": "40 Years of the Incredible Bongo Band", "duration": 293.426}
+{"artist": "Mungo's Hi Fi Ranking Joe", "name": "I Love Jah", "album": "Belly Ska Riddim", "duration": 240.481}
+{"artist": "Foo Fighters", "name": "My Hero", "album": "The Colour And The Shape", "duration": 260.026}
+{"artist": "Pyotr Ilyich Tchaikovsky Andr\u00e9 Previn London Symphony Orchestra", "name": "Tchaikovsky: Swan Lake, Op. 20, Act II: No. 10, Scene. Moderato", "album": "Tchaikovsky: Swan Lake", "duration": 166.866}
+{"artist": "Led Zeppelin", "name": "When the Levee Breaks - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 428.851}
+{"artist": "Dream Theater", "name": "Panic Attack", "album": "Octavarium", "duration": 493.026}
+{"artist": "Supertramp", "name": "The Logical Song", "album": "Supertramp - The Very Best Of", "duration": 250.493}
+{"artist": "Logic Alessia Cara Khalid", "name": "1-800-273-8255", "album": "Everybody", "duration": 250.173}
+{"artist": "Slayer", "name": "Raining Blood", "album": "Reign In Blood (Expanded)", "duration": 255.186}
+{"artist": "ODESZA", "name": "My Friends Never Die", "album": "My Friends Never Die", "duration": 171.5}
+{"artist": "Linkin Park", "name": "Numb", "album": "Meteora (Bonus Edition)", "duration": 185.586}
+{"artist": "Grouplove", "name": "Back in the 90's", "album": "BoJack Horseman (Music from the Netflix Original Series)", "duration": 43.613}
+{"artist": "Proleter", "name": "Stereosun", "album": "Rookie EP", "duration": 188.487}
+{"artist": "Cesare Cremonini", "name": "Logico #1", "album": "Logico", "duration": 282.606}
+{"artist": "Thegiornalisti", "name": "Riccione", "album": "Riccione", "duration": 196.86}
+{"artist": "Mac Quayle", "name": "1.1_3-oneor0.wma", "album": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)", "duration": 187.868}
+{"artist": "Mac Quayle", "name": "1.0_8-whatsyourask.m4p", "album": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)", "duration": 97.971}
+{"artist": "Lorne Balfe Assassin's Creed", "name": "Assassin's Creed III Main Theme", "album": "Assassin's Creed 3 (Original Game Soundtrack)", "duration": 186.613}
+{"artist": "blink-182", "name": "All The Small Things", "album": "Enema Of The State", "duration": 168.0}
+{"artist": "blink-182", "name": "What's My Age Again?", "album": "Enema Of The State", "duration": 148.573}
+{"artist": "883", "name": "Hanno ucciso l'Uomo Ragno", "album": "Hanno Ucciso L'uomo Ragno", "duration": 251.653}
+{"artist": "C2C", "name": "F.U.Y.A.", "album": "Tetra", "duration": 305.333}
+{"artist": "C2C", "name": "Delta", "album": "Tetra", "duration": 224.2}
+{"artist": "Paolo Buonvino Skin", "name": "Renaissance - From \"Medici: Masters of Florence\"", "album": "Renaissance (From \"Medici: Masters of Florence\")", "duration": 334.918}
+{"artist": "Tom Petty and the Heartbreakers", "name": "Into The Great Wide Open", "album": "Into The Great Wide Open", "duration": 223.333}
+{"artist": "Outkast", "name": "So Fresh, So Clean", "album": "Stankonia", "duration": 240.026}
+{"artist": "Teriyaki Boyz", "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack", "album": "Tokyo Drift (Fast & Furious)", "duration": 255.946}
+{"artist": "Metallica", "name": "Enter Sandman", "album": "Metallica", "duration": 331.266}
+{"artist": "Pink Floyd", "name": "Money - 2011 Remastered Version", "album": "The Dark Side Of The Moon (2011 Remastered Version)", "duration": 382.834}
+{"artist": "Soundgarden", "name": "Black Hole Sun", "album": "Superunknown (20th Anniversary)", "duration": 318.586}
+{"artist": "Charlie Puth Selena Gomez", "name": "We Don't Talk Anymore (feat. Selena Gomez)", "album": "Nine Track Mind", "duration": 217.706}
+{"artist": "Jason Derulo Snoop Dogg", "name": "Wiggle (feat. Snoop Dogg)", "album": "Talk Dirty", "duration": 193.295}
+{"artist": "OneRepublic", "name": "If I Lose Myself", "album": "Native", "duration": 241.653}
+{"artist": "Taylor Swift", "name": "Shake It Off", "album": "1989", "duration": 219.2}
+{"artist": "Alan Walker", "name": "Alone", "album": "Alone", "duration": 161.2}
+{"artist": "Dream Theater", "name": "A Nightmare to Remember", "album": "Black Clouds & Silver Linings", "duration": 972.08}
+{"artist": "The Jacksons", "name": "Can You Feel It - Single Version", "album": "The Essential Michael Jackson", "duration": 230.306}
+{"artist": "James Brown", "name": "Cold Sweat", "album": "Get On The Good Foot", "duration": 176.973}
+{"artist": "Phil Collins", "name": "In The Air Tonight - 2015 Remastered", "album": "Face Value (Deluxe Editon)", "duration": 336.453}
+{"artist": "Raphael Saadiq", "name": "Good Man", "album": "Stone Rollin'", "duration": 225.213}
+{"artist": "Dream Theater", "name": "Scene Seven: I. The Dance of Eternity", "album": "Metropolis, Pt. 2: Scenes from a Memory", "duration": 373.693}
+{"artist": "Eminem", "name": "So Bad", "album": "Recovery", "duration": 325.346}
+{"artist": "Dr. Dre Eminem Xzibit", "name": "What's The Difference", "album": "2001 (Explicit Version)", "duration": 244.266}
+{"artist": "The Delfonics", "name": "Stop and Look (And You Have Found Love)", "album": "Adrian Younge Presents The Delfonics", "duration": 166.693}
+{"artist": "RJD2 Jordan Brown", "name": "Peace of What", "album": "Dame Fortune", "duration": 209.306}
+{"artist": "The White Stripes", "name": "Seven Nation Army", "album": "Elephant", "duration": 231.92}
+{"artist": "Status Quo", "name": "Rockin' All Over The World", "album": "Rockin' All Over The World", "duration": 217.453}
+{"artist": "Led Zeppelin", "name": "Fool in the Rain - 1990 Remaster", "album": "In Through the out Door (1994 Remaster)", "duration": 372.893}
+{"artist": "Led Zeppelin", "name": "The Wanton Song - 1990 Remaster", "album": "Physical Graffiti (1994 Remaster)", "duration": 249.8}
+{"artist": "Led Zeppelin", "name": "Heartbreaker - 1990 Remaster", "album": "Led Zeppelin II (1994 Remaster)", "duration": 254.133}
+{"artist": "Led Zeppelin", "name": "Kashmir - 1990 Remaster", "album": "Physical Graffiti (1994 Remaster)", "duration": 508.2}
+{"artist": "Miike Snow", "name": "Heart Is Full", "album": "iii", "duration": 213.36}
+{"artist": "Boot Camp Clik", "name": "And So", "album": "The Chosen Few", "duration": 229.933}
+{"artist": "Jidenna", "name": "Long Live the Chief", "album": "Long Live the Chief", "duration": 163.255}
+{"artist": "Linkin Park", "name": "Faint", "album": "Meteora (Bonus Edition)", "duration": 162.6}
+{"artist": "Linkin Park", "name": "What I've Done", "album": "Minutes to Midnight", "duration": 205.613}
+{"artist": "Linkin Park", "name": "Numb", "album": "Meteora", "duration": 185.586}
+{"artist": "Ennio Morricone", "name": "The Ecstasy Of Gold", "album": "The Good, The Bad & The Ugly (Original Motion Picture Soundtrack)", "duration": 203.226}
+{"artist": "TOTO", "name": "Africa", "album": "Toto IV", "duration": 295.893}
+{"artist": "The Beatles", "name": "Help! - Remastered 2015", "album": "1 (Remastered)", "duration": 139.24}
+{"artist": "Eagles", "name": "Hotel California - 2013 Remaster", "album": "Hotel California (2013 Remaster)", "duration": 391.376}
+{"artist": "Red Hot Chili Peppers", "name": "Wet Sand", "album": "Stadium Arcadium", "duration": 309.8}
+{"artist": "The Police", "name": "Every Breath You Take - Remastered 2003", "album": "Synchronicity (Remastered)", "duration": 253.25}
+{"artist": "The Monkees", "name": "I'm a Believer - 2006 Remaster", "album": "More of The Monkees (Deluxe Edition)", "duration": 167.373}
+{"artist": "Foo Fighters", "name": "Walking A Line", "album": "One By One (Expanded Edition)", "duration": 235.453}
+{"artist": "ODESZA Madelyn Grant", "name": "Sun Models (feat. Madelyn Grant)", "album": "In Return", "duration": 160.0}
+{"artist": "Lucio Dalla", "name": "Attenti al lupo", "album": "Caro Amico Ti Scrivo...", "duration": 259.48}
+{"artist": "Hank Levy", "name": "Whiplash", "album": "Whiplash (Original Motion Picture Soundtrack)", "duration": 115.288}
+{"artist": "John Wasson", "name": "Caravan", "album": "Whiplash (Original Motion Picture Soundtrack)", "duration": 554.889}
+{"artist": "Andr\u00e9 Rieu", "name": "Bel Canto Suite", "album": "Symphonic Maestro", "duration": 316.253}
+{"artist": "Linkin Park", "name": "BURN IT DOWN", "album": "LIVING THINGS", "duration": 230.253}
+{"artist": "Led Zeppelin", "name": "Stairway to Heaven - Remaster", "album": "Led Zeppelin IV (Deluxe Edition)", "duration": 482.83}
+{"artist": "Nirvana", "name": "Come As You Are", "album": "Nevermind (Deluxe Edition)", "duration": 218.92}
+{"artist": "Parov Stelar Stuff Smith", "name": "Mama Talking", "album": "Mama Talking", "duration": 178.59}
+{"artist": "Rick James", "name": "Super Freak", "album": "Street Songs (Remastered)", "duration": 204.413}
+{"artist": "Led Zeppelin", "name": "Whole Lotta Love - 1990 Remaster", "album": "Led Zeppelin II (1994 Remaster)", "duration": 333.893}
+{"artist": "Led Zeppelin", "name": "Moby Dick", "album": "Led Zeppelin II (1994 Remaster)", "duration": 260.959}
+{"artist": "The Beatles", "name": "Penny Lane - Remastered 2015", "album": "1 (Remastered)", "duration": 180.52}
+{"artist": "Red Hot Chili Peppers", "name": "Snow (Hey Oh)", "album": "Stadium Arcadium", "duration": 334.666}
+{"artist": "20syl", "name": "Bet Dap Goom Bown", "album": "Bet Dap Goom Bown - Single", "duration": 208.076}
+{"artist": "20syl", "name": "Kodama", "album": "Motifs - EP", "duration": 266.784}
+{"artist": "20syl Rita J", "name": "Voices", "album": "Motifs - EP", "duration": 265.461}
+{"artist": "20syl Oddisee", "name": "Ongoing Thing", "album": "Motifs - EP", "duration": 238.777}
+{"artist": "The Beach Boys", "name": "Surfin' U.S.A. - Remastered 2001", "album": "Surfin' USA (Remastered)", "duration": 149.373}
+{"artist": "Bruno Mars", "name": "That's What I Like", "album": "24K Magic", "duration": 206.693}
+{"artist": "Bruno Mars", "name": "24K Magic", "album": "24K Magic", "duration": 225.983}
+{"artist": "The Beatles", "name": "Come Together - Remastered", "album": "Abbey Road (Remastered)", "duration": 259.946}

@@ -109,5 +109,6 @@ venv.bak/
 .idea
 noresults.txt
 *.ini
-*.txt
 *.json
+
+noresults_youtube.txt
